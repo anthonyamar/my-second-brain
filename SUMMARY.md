@@ -1,4 +1,4 @@
 # Table of contents
 
-* [My first page](README.md)
+* [Welcome in my mind](README.md)
 
