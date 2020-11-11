@@ -4,5 +4,5 @@ Architecture is a field that entertain me. I like the way art (in the sens of be
 
 ## Summary
 
-- [Bridges : about Pont Neuf, hydrolic pump, construction technics and innovations](architecture/bridges.md)
+- [Bridges : about Pont Neuf, hydrolic pump, construction technics and innovations](https://garden.anthonyamar.fr/architecture/bridges)
 
