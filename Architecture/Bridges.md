@@ -1,6 +1,6 @@
 # Bridges
 
-One documentary about the Pont Neuf in Paris just learned me some great things about architecture and challenge my thoughts about everyday things we use such as running water, sidewalk and bridges construction methods. 
+One documentary about the Pont Neuf in Paris just learned me some great things about architecture and challenged me and my thoughts about everyday things we use such as running water, sidewalk and bridges construction methods. 
 
 ## The Pont Neuf in Paris
 
