@@ -4,7 +4,7 @@ The Raspberry Pi is a tiny computer running on ARM processors that cost around $
 
 I use it mainly as an hobbyist : sometimes for runnings scripts that need time to be executed (such as machine or deep learning training phases) or scrapping scripts, as a server to learn dev ops and as an IoT device to remotely manipulate electronics components. 
 
-![look at this beauty!](https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg)
+![look at this beauty! 😍](https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg)
 
 ## Projects I like
 
