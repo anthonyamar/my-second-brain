@@ -14,6 +14,7 @@ I use it mainly as an hobbyist : sometimes for runnings scripts that need time t
 - [RPi projects from Hackster.io](https://www.hackster.io/raspberry-pi?ref=topnav)
 - [Ethical hacking beginner kit on RPi 3 B+](https://null-byte.wonderhowto.com/how-to/build-beginner-hacking-kit-with-raspberry-pi-3-model-b-0184144/) 
 - [Full size arcade cabinet with Raspberry Pi](https://www.instructables.com/Full-Size-Arcade-Cabinet-Using-Raspberry-Pi/)
+- [Steampunk desktop background radiation monitor](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
 
 ## Useful links
 
