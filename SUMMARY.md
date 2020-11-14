@@ -8,5 +8,3 @@
 * [Video](video/README.md)
   * [Make great YouTube videos](video/make_great_videos.md)
 
-
-
