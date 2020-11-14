@@ -8,7 +8,7 @@ description: Here's where I keep and grow my knowledge and ideas.
 
 I'm **Anthony**, a `Date.today.year - 1993` years old french guy. I have tons of passions and dreams and make a living as being an "entrepreneur" in tech, music and learning industries.
 
-I have an atypical, mostly passion driven, path. I started playing music at the age of ten, which gave me the will of working as a musician very early. After succeeding \(in my opinion, it was a kind of success :-\)\) being a profesionnal musician, I found myself in entrepreneurship, then, in programming and teaching. As an eternal undiceded, I just did not choose between theses passions and combine them all.
+I have an atypical, mostly passion driven, path. I started playing music at the age of ten, which gave me the will of working as a musician very early. After succeeding \(in my opinion, it was a kind of success :-\)\) being a professional musician, I found myself in entrepreneurship, then, in programming and teaching. As an eternal undecided, I just did not choose between theses passions and combine them all.
 
 Now I'm leading a music tech company, spending my time creating -mostly tech- products that can empower musicians. In my spare time, I'm collecting very old books, do scuba diving, then more recently, create variety of online content while also learning real estate and trading.
 
@@ -65,7 +65,7 @@ Well, digital garden are the same. Where blog, diary or `array_of_content_medium
 
 I just write about what I like. It can be music, entrepreneurship, values, sciences, diving, sports, tech, programming, social/sexual/love/friends relationships, religion, politics, art, humor, electronics, books, nature, animals, philosophy, economy, personal development... well, you get it right? Everything I like.
 
-The content can be sometime a big article, an other just a one sentence note with two links with no formating at all...
+The content can be sometime a big article, an other just a one sentence note with two links with no formatting at all...
 
 I'll do my best to often put new content, but two release can be distant from 1 hour or from 1 month.
 
