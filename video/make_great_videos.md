@@ -1,6 +1,6 @@
 # Make great YouTube videos
 
-Notes on how to make great youtube videos
+Notes on how to make great YouTube videos
 
 ## Gear
 
