@@ -8,7 +8,7 @@ Use a great camera in which you can at least edit ISO, colors, focus and have a 
 
 ## Lights
 
-Use lights in a way that it can light up your face from differents angle. We can stick paper on the light to create a kind of diffusor. Avoid being against the light or counterbalance with more light on your face.
+Use lights in a way that it can light up your face from different angle. We can stick paper on the light to create a kind of diffusor. Avoid being against the light or counterbalance with more light on your face.
 
 ## Audio
 
@@ -22,7 +22,7 @@ When you're shooting your video, start setting up the frame with a 3x3 squares a
 
 ## Background
 
-Tidy your room and try to have a clean and lighty background
+Tidy your room and try to have a clean and lighten background
 
 ## Focus
 
@@ -30,7 +30,7 @@ Be sure that the focus is on your face before starting to shoot your video
 
 ## Scripting
 
-Based on : [How to make a good Youtube Video \(simple video script structure\)](https://www.youtube.com/watch?v=cCpvVDc0Glw)
+Based on : [How to make a good YouTube Video \(simple video script structure\)](https://www.youtube.com/watch?v=cCpvVDc0Glw)
 
 ### 1. Hook
 
@@ -52,7 +52,7 @@ Deliver the content you were talking about in the intro by keeping everything st
 
 The bonus is the over delivering part. Deliver something hyper valuable for your audience like a guide, a link or another video that can solve a specific problem.
 
-> Great videos are made also via editing, go check out our new video/ebook/content in the description about How to improve your editing skills in 10 minutes.
+> Great videos are made also via editing, go check out our new video/eBook/content in the description about How to improve your editing skills in 10 minutes.
 
 ### 5. Summary
 
@@ -73,11 +73,11 @@ End the video by calling your viewers to make a specific action wheter it's subs
 
 ## Editing the video
 
-Based on : [Video Editing Tricks. for YouTubers](https://www.youtube.com/watch?v=tKStCpi3-Oo)
+Based on : [Video Editing Tricks for YouTubers](https://www.youtube.com/watch?v=tKStCpi3-Oo)
 
 ### 1. Cropping
 
-Use a large frame to allow you croping video and create the illusion of having multiple cameras and creating more dynamic content.
+Use a large frame to allow you cropping video and create the illusion of having multiple cameras and creating more dynamic content.
 
 ### 2. Adding content with layers
 
@@ -87,16 +87,16 @@ You can even use photo, but make sure to edit it with the Ken Burns Effect, whic
 
 ### 3. Record clips instead of big long footages
 
-By recording shorts clip, you are mmore agile in the process of making your video. You can just preview clip separatly and stick them together to create a more consistent video. It allow you to also rearrange the content easily to make the development more natural
+By recording shorts clip, you are more agile in the process of making your video. You can just preview clip separatly and stick them together to create a more consistent video. It allow you to also rearrange the content easily to make the development more natural
 
-### 4. Use template everytime
+### 4. Use template every time
 
 To edit faster, create template with your favorite window arrangement, tracks and videos settings, folders with your favorites songs, effects and images to gain in workflow productivity and improve consistency across your videos
 
 Links :
 
-* [Premire Pro Templates](https://motionarray.com/browse/premiere-pro-templates)
-* [35 free Youtube Video Templates for Premier pro](https://photography.tutsplus.com/articles/40-free-youtube-templates-motion-graphics-for-premiere-pro--cms-34865) 
+* [Premiere Pro Templates](https://motionarray.com/browse/premiere-pro-templates)
+* [35 free YouTube Video Templates for Premier pro](https://photography.tutsplus.com/articles/40-free-youtube-templates-motion-graphics-for-premiere-pro--cms-34865) 
 * [15 top templates for Final Cut](https://photography.tutsplus.com/tutorials/15-top-video-templates-for-final-cut-pro--cms-33012)
 
 ### 5. Edit colors
@@ -113,9 +113,9 @@ Refer to the script your video chapter above. Scripting and planing your content
 
 ### 6. Take help of the sound waveform to make the right cuts
 
-Using the audio waveform will help you to discerne and decide faster where to cut to shorten sequences and add a better rythm to your video.
+Using the audio waveform will help you to discern and decide faster where to cut to shorten sequences and add a better rythm to your video.
 
 ### 7. Have enough footage to choose
 
-It's better to have more clips than not enough clips so you can make the right choice and have a more natural and dynamic video. You can achieve that by shooting the each sequence 2 or 3 times and trying to have differents intonation, position, words etc, to create the best video composition when editing.
+It's better to have more clips than not enough clips so you can make the right choice and have a more natural and dynamic video. You can achieve that by shooting the each sequence 2 or 3 times and trying to have different intonation, position, words etc, to create the best video composition when editing.
 
