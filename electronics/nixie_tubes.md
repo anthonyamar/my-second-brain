@@ -51,7 +51,7 @@ This one was seen on Steve Wozniak's wrist. It was his watch before Apple Watch 
 
 ### High speed cameras calibration display for NASA
 
-As Nixie tubes can go up to 100 000 changes per seconds the NASA ask the modern Nixie tubes craftsman Dalibor Farny \(see above\) to create a display using this technology to be able to calibrate 100 000 fps cameras \(😱\)
+As Nixie tubes can go up to 100 000 changes per seconds the NASA ask the modern Nixie tubes craftsman Dalibor Farny \(see below\) to create a display using this technology to be able to calibrate 100 000 fps cameras \(😱\)
 
 ![Dalibor Farny collaborating with NASA on a high speed camera calibration display](../.gitbook/assets/20191203-img_0394_.jpg)
 
