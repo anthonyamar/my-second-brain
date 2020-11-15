@@ -2,7 +2,7 @@
 
 Nixie tubes are awesome looking tubes that contains a wire-mesh anode and multiple cathodes shaped like numerals or symbols. The tube is filled with gas at low pressure, usually neon mixed with argon or/and mercury.
 
-The most commons Nixie tubes are used to display numbers. It was introduced in 1955 by Burroughs Corporation and was mostly use as numeric displays in early digital measure machine : voltmeters, multimeters, frequency counters. The official production were stopped by the 1990.
+The most commons Nixie tubes are used to display numbers. It was introduced in 1955 by Burroughs Corporation and was mostly use as numeric displays in the early digital measure machine : voltmeters, multimeters, frequency counters. The official production were stopped by the 1990.
 
 Their retro-futurist look provide it a raise of popularity in the DIY community to create steampunk looking electronics machines.
 
