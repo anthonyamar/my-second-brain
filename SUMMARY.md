@@ -4,7 +4,7 @@
 * [Architecture](architecture/README.md)
   * [Bridges](architecture/bridges.md)
 * [Electronics](electronics/README.md)
-  - [Nixie tubes](electronics/nixie_tubes.md)
+  * [Nixie tubes](electronics/nixie_tubes.md)
 * [Hardware](hardware/README.md)
   * [Rapsberry Pi](hardware/raspberry_pi.md)
 * [Video](video/README.md)

@@ -8,7 +8,7 @@ Use a great camera in which you can at least edit ISO, colors, focus and have a 
 
 ## Lights
 
-Use lights in a way that it can light up your face from different angle. We can stick paper on the light to create a kind of diffusor. Avoid being against the light or counterbalance with more light on your face.
+Use lights in a way that it can light up your face from a different angle. We can stick paper on the light to create a kind of diffuser. Avoid being against the light or counterbalance with more light on your face.
 
 ## Audio
 
@@ -67,7 +67,7 @@ Summarize every point so the user can make a point on each of the advice
 
 ### 6. Call to action
 
-End the video by calling your viewers to make a specific action wheter it's subscribing, download a document, go to a website or watch the next video.
+End the video by calling your viewers to make a specific action whether it's subscribing, download a document, go to a website or watch the next video.
 
 > Hope you like this video, don't forget to click the Subscribe button and to go check out my other videos on the channel and I see you soon for the next video!
 
@@ -85,9 +85,9 @@ Add text to illustrate words and thoughts or image.
 
 You can even use photo, but make sure to edit it with the Ken Burns Effect, which is having an image and moving slowly in to create the illusion of a video by panning or zooming in.
 
-### 3. Record clips instead of big long footages
+### 3. Record clips instead of big long footage
 
-By recording shorts clip, you are more agile in the process of making your video. You can just preview clip separatly and stick them together to create a more consistent video. It allow you to also rearrange the content easily to make the development more natural
+By recording shorts clip, you are more agile in the process of making your video. You can just preview clips separately and stick them together to create a more consistent video. It allows you to also rearrange the content easily to make the development more natural
 
 ### 4. Use template every time
 
@@ -101,7 +101,7 @@ Links :
 
 ### 5. Edit colors
 
-Don't need to do fancy things, just improve the colors by adding a little bit of contrast and a little bit of saturation can improve the image. Automatic color correction plugins for video are also very valuable.
+Don't need to do fancy things, just improve the colors by adding a bit of contrast and a bit of saturation can improve the image. Automatic color correction plugins for video are also very valuable.
 
 Links :
 
@@ -109,13 +109,13 @@ Links :
 
 ### 5. Plan your content
 
-Refer to the script your video chapter above. Scripting and planing your content will allow you to edit faster and know what to keep and what to trash. It also help you to know when you need to cut the cam to create meaningful clips.
+Refer to the script your video chapter above. Scripting and planing your content will allow you to edit faster and know what to keep and what to trash. It also helps you to know when you need to cut the cam to create meaningful clips.
 
 ### 6. Take help of the sound waveform to make the right cuts
 
-Using the audio waveform will help you to discern and decide faster where to cut to shorten sequences and add a better rythm to your video.
+Using the audio waveform will help you to discern and decide faster where to cut to shorten sequences and add a better rhythm to your video.
 
 ### 7. Have enough footage to choose
 
-It's better to have more clips than not enough clips so you can make the right choice and have a more natural and dynamic video. You can achieve that by shooting the each sequence 2 or 3 times and trying to have different intonation, position, words etc, to create the best video composition when editing.
+It's better to have more clips than not enough clips so you can make the right choice and have a more natural and dynamic video. You can achieve that by shooting each sequence 2 or 3 times and trying to have different intonation, position, words etc, to create the best video composition when editing.
 
