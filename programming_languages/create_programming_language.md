@@ -10,7 +10,7 @@ The part that totaly blew my mind is last one : how about code as art? This part
 
 After that, I ask myself : how do people write programming languages? What are the norms, specs, frameworks or design patterns for creating one? I mean, if people can write new programming languages, why not me? 
 
-Before even thinking to write my own (even if I have some ideas of esoteric languages 😄), I was just curious about theses things. So in this plot my finds about How to create a programming language. 
+Before even thinking to write my own (even if I have some ideas of esoteric languages 😄), I'm just curious about how to. So in this plot my finds about How to create a programming language. 
 
 By the way, here's the video :
 
