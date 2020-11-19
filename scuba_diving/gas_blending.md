@@ -1,17 +1,10 @@
 # Breathing gas mixtures : how divers achieve to go deeper.
 
-When I started practicing scuba diving, I was fascinated by the divers who was going very deep. With the naivety of a beginner, I just didn't think about how it could be done. Then, I succeed my first certification, that allowed me to go only at -20 m deep. This is where I started to see that the next -20 m will not be that easy to reach without some theoretical knowledge about breathing gas.  
-  
-  
+When I started practicing scuba diving, I was fascinated by the divers who was going very deep. With the naivety of a beginner, I just didn't think about how it could be done. Then, I succeed my first certification, that allowed me to go only at -20 m deep. This is where I started to see that the next -20 m will not be that easy to reach without some theoretical knowledge about breathing gas.
 
+After ~30 dives, I wanted to progress in scuba diving and succeed a "level 2 certification", which allow me, among others, to dive assisted with a max operating depth of -40 m. I take advantage of this certification \(which require 10 dives of diverse exercises\) to pass a Nitrox certification. Here it is! My first breath of a gas mixture enriched with oxygen!
 
-After ~30 dives, I wanted to progress in scuba diving and succeed a "level 2 certification", which allow me, among others, to dive assisted with a max operating depth of -40 m. I take advantage of this certification \(which require 10 dives of diverse exercises\) to pass a Nitrox certification. Here it is! My first breath of a gas mixture enriched with oxygen!  
-
-
-And what a room for improvement: when some of my instructors have been diving deeper than -100 m, my personal record is -36 m and I'm already concerned by gas mixture!  
-  
-  
-
+And what a room for improvement: when some of my instructors have been diving deeper than -100 m, my personal record is -36 m and I'm already concerned by gas mixture!
 
 This only increased my interest about the gas blending subject in scuba diving : if you want to go deeper, using different gas mixtures is vital. So here's what I've learned about this field.
 
@@ -34,19 +27,13 @@ I think this the most popular accident in scuba diving, not because many people 
 
 Divers are breathing with a mechanism called a [regulator](https://en.wikipedia.org/wiki/Diving_regulator). The regulator is giving air at the ambient pressure. When we're on the surface, the pressure is at 1 atmosphere \(ATM\), so your regulator gives air at 1 ATM
 
-The pressure increase of 1 ATM every 10 m. That mean that, when we're at -10 m, we're facing 2 ATM of pressure \(1 ATM of surface + 1 ATM of depth pressure\), -20, 3 ATM, -30, 4 ATM... and so on.  
-  
-  
-
+The pressure increase of 1 ATM every 10 m. That mean that, when we're at -10 m, we're facing 2 ATM of pressure \(1 ATM of surface + 1 ATM of depth pressure\), -20, 3 ATM, -30, 4 ATM... and so on.
 
 One of the basic mechanism with pressure is that, when the pressure increase, volumes decrease and vice versa.
 
 Deeper you go, higher is the pressure, and more your body is compressed. So where's the problem?
 
-Because the regulator is giving you gas at the ambient pressure, when you're -30 m deep, you're breathing air at 4 ATM. That means you're breathing 4 times more nitrogen and oxygen in your lungs than you were at the surface. Normally, nitrogen is a neutral gas at 1 ATM, it doesn't transfer to the tissue. But, here at -30 m, we're breathing 4 times more nitrogen, so the gas is forced to move to the tissue and then dissolve in our blood.  
-  
-  
-
+Because the regulator is giving you gas at the ambient pressure, when you're -30 m deep, you're breathing air at 4 ATM. That means you're breathing 4 times more nitrogen and oxygen in your lungs than you were at the surface. Normally, nitrogen is a neutral gas at 1 ATM, it doesn't transfer to the tissue. But, here at -30 m, we're breathing 4 times more nitrogen, so the gas is forced to move to the tissue and then dissolve in our blood.
 
 If we're exposed to too much nitrogen, during a too long period, we start to have the nitrogen narcosis we're talking below, which cause at first, the feel of drunkenness.
 
@@ -74,7 +61,7 @@ The deeper you go, the harder is narcosis and this can result in the loss of cog
 
 ## Gas mixing to underweight nitrogen
 
-We now have our suspect : nitrogen seems to cause too many threats when diving deep. So one of the main reason we're change the gas mixture is to underweight nitrogen, at first, in profit of oxygen. This mix is called "Nitrox"
+We now have our suspect : nitrogen seems to cause too many threats when diving deep. So one of the main reason we change the gas mixture is to underweight nitrogen, at first, in profit of oxygen. This mix is called "Nitrox"
 
 ## Nitrox
 
@@ -88,7 +75,7 @@ Nitrox is prepared with specific gear, such as permeable membrane filter or low 
 
 When we're starting to prepare our equipment for diving, we need to measure the oxygen rate in the bottle using a gas analyzer, and stick to our bottle a sign with our parameters written like this : EAN 32% MOD -34 m. This is mostly needed to inform other divers.
 
-Here're the pros of using Nitrox for diving :
+Here're **the pros** of using Nitrox for diving :
 
 * As there is less nitrogen, we can stay longer at our MOD without the need to make decompression stops. So basically, this mean that we can explore more 😊. 
 * It decreases the risk of nitrogen narcosis and decompression sickness
@@ -96,7 +83,7 @@ Here're the pros of using Nitrox for diving :
 * It decreases the risk of accident for people who have a [PFO \(patent foramen oval\)](https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/patent-foramen-ovale-pfo)
 * There's no noticeable change in terms of breathing comfort. 
 
-And the cons :
+And **the cons** :
 
 * More oxygen means more risk of hyperoxia and high-pressure nervous syndrome.
 * Contrary to popular belief, Nitrox don't allow us to go deeper. Rather the opposite.
