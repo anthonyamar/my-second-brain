@@ -11,7 +11,7 @@
 * [Programming languages](programming_languages/README.md)
   * [Create a programming language](programming_languages/create_programming_language.md)
 * [Scuba diving](scuba_diving/README.md)
-  * [Breathing gas mixtures : how divers achieve to go deeper.](scuba_diving/gas_blending.md) 
+  * [Breathing gas mixtures : how divers achieve to go deeper.](scuba_diving/gas_blending.md)
 * [Video](video/README.md)
   * [Make great YouTube videos](video/make_great_videos.md)
 
