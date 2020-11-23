@@ -9,7 +9,7 @@ I never did huge projects and doesn't have great skills in electronics though, b
 ## Summary
 
 * [Nixie tubes : the awesome looking numeric tubes and associated projects](nixie_tubes.md)
-* [Wiring audio cables : collection of useful wiring diagrams](wiring_audio_cable.md)
+* [Wiring audio cables : collection of useful wiring diagrams](wiring_audio_cables.md)
 
 ## Associated plots
 
