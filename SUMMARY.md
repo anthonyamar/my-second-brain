@@ -5,6 +5,7 @@
   * [Bridges](architecture/bridges.md)
 * [Electronics](electronics/README.md)
   * [Nixie tubes](electronics/nixie_tubes.md)
+  * [Wiring audio cables](electronics/wiring_audio_cables)
 * [Hardware](hardware/README.md)
   * [Rapsberry Pi](hardware/raspberry_pi.md)
 * [Programming languages](programming_languages/README.md)

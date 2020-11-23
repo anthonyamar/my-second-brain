@@ -32,7 +32,7 @@ How I find about Nixie tubes? By digging around this RPi project.
 
 Links:
 
-* [My Raspberry Pi parcel](https://github.com/anthonyamar/limitless-exploration/tree/8bd961472c08c5d1d9eabbd95c789fc0b56a9eb3/electronics/hardware/raspberry_pi.md)
+* [My Raspberry Pi plot](https://github.com/anthonyamar/limitless-exploration/tree/8bd961472c08c5d1d9eabbd95c789fc0b56a9eb3/electronics/hardware/raspberry_pi.md)
 * [Full project tutorial on Hackster.io](https://www.hackster.io/chriscw/a-steampunk-geiger-counter-with-raspberry-pi-grafana-2d39dd)
 
 ![The steampunk Raspberry Pi powered Geiger counter](../.gitbook/assets/geigercounter.png)
