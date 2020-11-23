@@ -61,7 +61,5 @@ By looking about Nixie tubes on YouTube, I found this video from Dalibor Farny t
 
 Checkout his website which is as beautiful as his creations : [https://www.daliborfarny.com/](https://www.daliborfarny.com/)
 
-{% embed url="https://www.youtube.com/watch?v=wxL4ElboiuA" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=wxL4ElboiuA" caption="" %}
 

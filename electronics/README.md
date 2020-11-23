@@ -9,11 +9,9 @@ I never did huge projects and doesn't have great skills in electronics though, b
 ## Summary
 
 * [Nixie tubes : the awesome looking numeric tubes and associated projects](nixie_tubes.md)
-* [Wiring audio cables : collection of useful wiring diagrams](wiring_audio_cables.md)
+* [Wiring audio cables : collection of useful wiring diagrams](https://github.com/anthonyamar/limitless-exploration/tree/bbab8b7a22282d5f558bc36745acd95520088cef/electronics/wiring_audio_cables.md)
 
 ## Associated plots
 
 * [Raspberry Pi : Link I find useful, some advices and thoughts.](../hardware/raspberry_pi.md)
-
-
 
