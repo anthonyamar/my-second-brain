@@ -14,4 +14,5 @@
   * [Breathing gas mixtures : how divers achieve to go deeper.](scuba_diving/gas_blending.md)
 * [Video](video/README.md)
   * [Make great YouTube videos](video/make_great_videos.md)
+* [Virtual reality](virtual_reality/README.md)
 
