@@ -9,7 +9,7 @@
 * [Hardware](hardware/README.md)
   * [Rapsberry Pi](hardware/raspberry_pi.md)
 * [Music theory](music_theory/README.md)
-  * [Chords progressions dictionnary](music_theory/chords_progressions.md)
+  * [Chords progressions dictionary](music_theory/chords_progressions.md)
 * [Programming languages](programming_languages/README.md)
   * [Create a programming language](programming_languages/create_programming_language.md)
 * [Scuba diving](scuba_diving/README.md)
