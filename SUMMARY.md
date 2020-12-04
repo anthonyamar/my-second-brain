@@ -14,6 +14,8 @@
   * [Create a programming language](programming_languages/create_programming_language.md)
 * [Scuba diving](scuba_diving/README.md)
   * [Breathing gas mixtures : how divers achieve to go deeper.](scuba_diving/gas_blending.md)
+* [Third places](third_places/README.md)
+  * [Inspiration places](third_places/places.md)
 * [Video](video/README.md)
   * [Make great YouTube videos](video/make_great_videos.md)
 * [Virtual reality](virtual_reality.md)
