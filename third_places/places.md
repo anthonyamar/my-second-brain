@@ -16,6 +16,7 @@ A collection of third places that inspire me creating great living places.
 
 * [Ground Control Paris](https://www.groundcontrolparis.com/) : Bars, restaurants, pastries, shops, video games, bookshop, events, courses, live music, privatization
 * [Les Grands Voisins Paris](https://lesgrandsvoisins.org/) : life place, cultural events, workshops, artistic, education, shops, bar, restaurants, eco responsibility, social solidarity, room renting and privatization. They document their : [governance](https://lesgrandsvoisins.org/les-grands-voisins/gouvernance/) and their [business model](https://lesgrandsvoisins.org/les-grands-voisins/le-modele-economique/).
+* [Le Jardin d'Alice (squat - closed) - Montreuil](http://paris.intersquat.org/les-lieux/le-jardin-d-alice/) : temporary workspace for artists, rehearsal studios, live music, hackerspace, photo lab, shared garden, eco construction projects, permacutlure. 
 
 ### Public initiative
 
@@ -32,6 +33,9 @@ A collection of third places that inspire me creating great living places.
 ### Live music
 
 * [La Gare - Paris 19ème](https://www.lesinrocks.com/2017/09/news/une-gare-abandonnee-du-19e-transformee-en-club-de-jazz/) : live, bar, jazz club, intimates concerts, jam sessions
+* [La station Gare des Mines - Paris 18ème](http://lastation.paris/) : live music, workshops, club, emerging cultures, bar, restaurants
+* [L'Albatros - Paris](http://www.espacealbatros.fr/) : live music, artists workshops, theater, radio, bar, exhibition, sewing and DIY, courses, production (podcasts, films, web radio, web tv)
+* [La Marbrerie - Paris](https://lamarbrerie.fr/) : live music, bar and cafeteria, school, dance, exhibitions, artists workshops
 
 ### Artists workshops
 
@@ -50,4 +54,12 @@ A collection of third places that inspire me creating great living places.
 ### Fashion
 
 * [Les Docks : Cité de la mode et du design](https://www.citemodedesign.fr/en/) : Bar, club, restaurant, privatization and rental, media, fashion show, exhibitions, fashion school
+
+### Urban 
+
+- [Urban Spree - Berlin 10245](https://www.urbanspree.com/fr/) : artist residency, exhibitions, live music, art library, [Biergarten](https://en.wikipedia.org/wiki/Beer_garden) (Beer Garden - outdoor breweries), street art, art seller. [Size and infos.](https://www.urbanspree.com/useful/)
+
+### Video games
+
+-  [Reset Bar - Paris](http://www.reset.bar/) : video games, bar, retro gaming, arcades, privatizations.
 
