@@ -4,8 +4,6 @@ A collection of third places that inspire me creating great living places.
 
 [Definition of a third place](https://en.wikipedia.org/wiki/Third_place)
 
-## Places
-
 ### Groups
 
 * [Big mamma group](https://www.bigmammagroup.com/fr/accueil) : Food market especially [Felicita Paris](https://www.lafelicita.fr/)
