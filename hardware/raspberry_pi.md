@@ -17,6 +17,8 @@ I use it mainly as an hobbyist : sometimes for runnings scripts that need time t
 * [Ethical hacking beginner kit on RPi 3 B+](https://null-byte.wonderhowto.com/how-to/build-beginner-hacking-kit-with-raspberry-pi-3-model-b-0184144/) 
 * [Full size arcade cabinet with Raspberry Pi](https://www.instructables.com/Full-Size-Arcade-Cabinet-Using-Raspberry-Pi/)
 * [Steampunk desktop background radiation monitor](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
+* [Astro Pi : giving young people the chance to run their computer programs in space](https://astro-pi.org/)
+* 
 
 ## Useful links
 
@@ -35,6 +37,7 @@ I use it mainly as an hobbyist : sometimes for runnings scripts that need time t
 * [Small all in one keyboard/mouse for portable use](https://www.amazon.fr/dp/B07CQRSW5D/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B07CQRSW5D&pd_rd_w=IL665&pf_rd_p=44823ad6-3e15-4de3-b12e-dab83072aa41&pd_rd_wg=vwoyj&pf_rd_r=DG555JYWX9B0Y2BYGS2Q&pd_rd_r=48fb1b41-5a20-4a2d-8c3c-f95fe3a034cb&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyM1M3S0pVSjJIVVZCJmVuY3J5cHRlZElkPUEwMjQyMDQ5MU9YUFFSOUJPT0lIVSZlbmNyeXB0ZWRBZElkPUEwMDc0NTA1MVdORVVQRE5VQUZPOCZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 * [Freenove electronic starter kit with great access controls components](https://www.amazon.fr/Freenove-Raspberry-Processing-Tutorials-Components/dp/B06VTH7L28/ref=sr_1_8?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1XFLJ97FTY067&dchild=1&keywords=raspberry+pi+4+starter+kit&qid=1605303409&s=computers&sprefix=rasp%2Ccomputers%2C170&sr=1-8)
 * [Raspberry Pi Zero - The $5 computer](https://www.kubii.fr/pi-zero-v13/1401-raspberry-pi-zero-v13-kubii-3272496006973.html)
+* [Sense hat - A sensor station with LED display and a joystick](https://www.kubii.fr/cartes-extension-cameras-raspberry-pi/1081-raspberry-pi-sense-hat-kubii-640522710799.html)
 
 ### Installations
 
@@ -42,6 +45,7 @@ I use it mainly as an hobbyist : sometimes for runnings scripts that need time t
 * [Chromium media edition on Raspbian to run streaming services \(Spotify, Netflix...\)](https://blog.vpetkov.net/2020/03/30/raspberry-pi-netflix-one-line-easy-install-along-with-hulu-amazon-prime-disney-plus-hbo-spotify-pandora-and-many-others/)
 * [Install Ruby on Rails on Raspberry Pi](https://computers.tutsplus.com/tutorials/how-to-install-ruby-on-rails-on-raspberry-pi--cms-21421)
 * [Installing PostgreSQL 12 on Rapsbian Buster using Docker](https://medium.com/@mattvonrohr/installing-postgresql-12-on-raspbian-buster-using-docker-51032c0a0cdf)
+* [Getting started with Sense Hat](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)
 
 ### Security and debugging
 

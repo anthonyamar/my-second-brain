@@ -8,6 +8,8 @@
   * [Wiring audio cables](electronics/wiring_audio_cables.md)
 * [Hardware](hardware/README.md)
   * [Rapsberry Pi](hardware/raspberry_pi.md)
+* [Live music](live_music/README.md)
+  * [Places in north France](live_music/places_in_north_france.md)
 * [Music theory](music_theory/README.md)
   * [Chords progressions dictionary](music_theory/chords_progressions.md)
 * [Programming languages](programming_languages/README.md)
