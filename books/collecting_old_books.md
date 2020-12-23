@@ -4,11 +4,11 @@
 
 I started collecting old books in summer 2016. The story behind how I started can seem a bit mystic : I met a crazy old guy in the street of Paris at night in front of an old bookshop who transmit me his passion.
 
-> Old guy coming from no where with a plate of eggs in his hand : Oh, sorry, you were waiting me? My bad!
+> _Old guy coming from no where with a plate of eggs in his hand:_ Oh, sorry, you were waiting me? My bad!
 >
-> Me: Not at all, I was just watching theses books, they seems awesome and I'm curious.
+> _Me:_ Not at all, I was just watching theses books, they seems awesome and I'm curious.
 >
-> Old guy: -opens the door of the library- Alright, you're curious hum? Come here, I'll show you some!
+> _Old guy:_ _-opens library's door-_ Alright, you're curious hum? Come here, I'll show you some!
 
 It appears that this old crazy guy, with the plate of eggs \(it was around 9pm\) he got from the restaurant beside, was the owner of this old bookshop.
 
@@ -18,9 +18,9 @@ Any subject I was talking about, he had a book from another century about it. Wh
 
 Anytime we were discussing a subject, he'd go searching in the shop a book about it and gave it to me.
 
-> Old guy: This one is from 1765, see how it is still clean. I loved how the author talk about -_start talking about very specific details with so much passion_-
+> _Old guy:_ This one is from 1765, see how it is still clean. I loved how the author talk about -_start talking about very specific details with so much passion_-
 >
-> Me: _Watching the price and the release date of the book and think : Is this guy just letting me read a 1000€ book that is about 300 years old? 😵_
+> _Me:_ _Watching the price and the release date of the book and think : Is this guy just letting me read a 1000€ book that is about 300 years old? 😵_
 
 No need to say that I was very precious with it. I felt like I was carrying history in my hand. What a feeling!
 
