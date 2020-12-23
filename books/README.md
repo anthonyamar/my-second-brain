@@ -16,5 +16,5 @@ So here, I'll be writing about books : the books I love, the books I collect, th
 
 ## Summary :
 
-* [Collecting old books](https://github.com/anthonyamar/limitless-exploration/tree/1174366c5416d978043ea1b398147da94d3bf9fd/books/books/collecting_old_books.md)
+* [Collecting old books](collecting_old_books.md)
 
