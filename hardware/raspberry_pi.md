@@ -19,7 +19,6 @@ I use it mainly as an hobbyist : sometimes for runnings scripts that need time t
 * [Steampunk desktop background radiation monitor](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
 * [Astro Pi : giving young people the chance to run their computer programs in space](https://astro-pi.org/)
 * 
-
 ## Useful links
 
 ### Inspirations

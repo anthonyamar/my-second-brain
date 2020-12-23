@@ -4,9 +4,9 @@ A collection of third places that inspire me creating great living places.
 
 ## Links :
 
-- [Definition of a third place](https://en.wikipedia.org/wiki/Third_place)
-- [Campus des tiers lieux](https://www.campusdestierslieux.com/) - third place development, hints and formations. 
-- [Créer un tiers-lieu : comment se lancer quand on n'y connaît rien](https://www.campusdestierslieux.com/wp-content/uploads/2020/04/Cre%CC%81er-un-tiers-lieu-_-comment-se-lancer-quand-on-n%E2%80%99y-connai%CC%82t-rien-Sortir-Grand-Paris-Te%CC%81le%CC%81rama.fr_.pdf) - Article about creating third place without knowledge (FR).
+* [Definition of a third place](https://en.wikipedia.org/wiki/Third_place)
+* [Campus des tiers lieux](https://www.campusdestierslieux.com/) - third place development, hints and formations. 
+* [Créer un tiers-lieu : comment se lancer quand on n'y connaît rien](https://www.campusdestierslieux.com/wp-content/uploads/2020/04/Cre%CC%81er-un-tiers-lieu-_-comment-se-lancer-quand-on-n%E2%80%99y-connai%CC%82t-rien-Sortir-Grand-Paris-Te%CC%81le%CC%81rama.fr_.pdf) - Article about creating third place without knowledge \(FR\).
 
 ### Groups
 
@@ -18,7 +18,7 @@ A collection of third places that inspire me creating great living places.
 
 * [Ground Control Paris](https://www.groundcontrolparis.com/) : Bars, restaurants, pastries, shops, video games, bookshop, events, courses, live music, privatization
 * [Les Grands Voisins Paris](https://lesgrandsvoisins.org/) : life place, cultural events, workshops, artistic, education, shops, bar, restaurants, eco responsibility, social solidarity, room renting and privatization. They document their : [governance](https://lesgrandsvoisins.org/les-grands-voisins/gouvernance/) and their [business model](https://lesgrandsvoisins.org/les-grands-voisins/le-modele-economique/).
-* [Le Jardin d'Alice (squat - closed) - Montreuil](http://paris.intersquat.org/les-lieux/le-jardin-d-alice/) : temporary workspace for artists, rehearsal studios, live music, hackerspace, photo lab, shared garden, eco construction projects, permacutlure. 
+* [Le Jardin d'Alice \(squat - closed\) - Montreuil](http://paris.intersquat.org/les-lieux/le-jardin-d-alice/) : temporary workspace for artists, rehearsal studios, live music, hackerspace, photo lab, shared garden, eco construction projects, permacutlure. 
 
 ### Public initiative
 
@@ -38,7 +38,7 @@ A collection of third places that inspire me creating great living places.
 
 * [La Gare - Paris 19ème](https://www.lesinrocks.com/2017/09/news/une-gare-abandonnee-du-19e-transformee-en-club-de-jazz/) : live, bar, jazz club, intimates concerts, jam sessions
 * [La station Gare des Mines - Paris 18ème](http://lastation.paris/) : live music, workshops, club, emerging cultures, bar, restaurants
-* [L'Albatros - Paris](http://www.espacealbatros.fr/) : live music, artists workshops, theater, radio, bar, exhibition, sewing and DIY, courses, production (podcasts, films, web radio, web tv)
+* [L'Albatros - Paris](http://www.espacealbatros.fr/) : live music, artists workshops, theater, radio, bar, exhibition, sewing and DIY, courses, production \(podcasts, films, web radio, web tv\)
 * [La Marbrerie - Paris](https://lamarbrerie.fr/) : live music, bar and cafeteria, school, dance, exhibitions, artists workshops
 * [La belleviloise - Paris](https://www.labellevilloise.com/) : concerts, showcases, restaurant, bar, exhibitions, club, cinema, debats, ball, conferences, debates, space renting, politics, 
 * [Main d'Oeuvres - Saint Ouen](https://www.mainsdoeuvres.org/) : live music, bar, restaurant, rehearsal studios, recording studio, theater, dance, space renting, conferences, debates, exhibitions, laboratory, school, cantine, co-working
@@ -63,12 +63,12 @@ A collection of third places that inspire me creating great living places.
 
 * [Les Docks : Cité de la mode et du design](https://www.citemodedesign.fr/en/) : Bar, club, restaurant, privatization and rental, media, fashion show, exhibitions, fashion school
 
-### Urban 
+### Urban
 
-- [Urban Spree - Berlin 10245](https://www.urbanspree.com/fr/) : artist residency, exhibitions, live music, art library, [Biergarten](https://en.wikipedia.org/wiki/Beer_garden) (Beer Garden - outdoor breweries), street art, art seller. [Size and infos.](https://www.urbanspree.com/useful/)
-- [Yaam - Berlin](https://www.yaam.de/) : African art and food market, grafiti, street art, workshops, kid corner, sports, beach, live music, shops, exhibitions
+* [Urban Spree - Berlin 10245](https://www.urbanspree.com/fr/) : artist residency, exhibitions, live music, art library, [Biergarten](https://en.wikipedia.org/wiki/Beer_garden) \(Beer Garden - outdoor breweries\), street art, art seller. [Size and infos.](https://www.urbanspree.com/useful/)
+* [Yaam - Berlin](https://www.yaam.de/) : African art and food market, grafiti, street art, workshops, kid corner, sports, beach, live music, shops, exhibitions
 
 ### Video games
 
--  [Reset Bar - Paris](http://www.reset.bar/) : video games, bar, retro gaming, arcades, privatizations.
+* [Reset Bar - Paris](http://www.reset.bar/) : video games, bar, retro gaming, arcades, privatizations.
 
