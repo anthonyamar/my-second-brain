@@ -3,6 +3,8 @@
 * [Welcome in my mind](README.md)
 * [Architecture](architecture/README.md)
   * [Bridges](architecture/bridges.md)
+* [Books](books/README.md)
+  * [Collecting old books](books/collecting_old_books.md)
 * [Electronics](electronics/README.md)
   * [Nixie tubes](electronics/nixie_tubes.md)
   * [Wiring audio cables](electronics/wiring_audio_cables.md)
