@@ -26,6 +26,8 @@ A cheat sheet for audio cables and plugs wiring. It can save a lot of time, sear
 
 ### Neutrik combo
 
+![For Studiomatic&apos;s speaker cabine patches](../.gitbook/assets/neutrik-combo-ncj5fi-to-xlr-female.png)
+
 ![Neutrik combo wiring diagram](../.gitbook/assets/xbdd8.jpg)
 
 ## Others
