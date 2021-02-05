@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "0073b0947fc1cf0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e412e1a191f0a738",
+        "type": "leaf",
+        "dimension": 48.62385321100917,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books/Life changing books.md",
+            "mode": "source"
+          }
+        },
+        "group": "50e1881812325b3d"
+      },
+      {
+        "id": "3e47891c109bb253",
+        "type": "leaf",
+        "dimension": 31.03975535168196,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books/Life changing books.md",
+            "mode": "source"
+          }
+        },
+        "group": "50e1881812325b3d"
+      },
+      {
+        "id": "ac36f4c561210011",
+        "type": "split",
+        "dimension": 8.287461773700308,
+        "children": [
+          {
+            "id": "55b44e1a04c41f29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Life changing books.md"
+              }
+            },
+            "group": "50e1881812325b3d"
+          },
+          {
+            "id": "281feb73abcf0c88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Life changing books.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "a5372c320ec5eab6",
+        "type": "leaf",
+        "dimension": 12.048929663608565,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61c7741e9730857f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f55e12ef8d02870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd5ef1cd438d5b94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f67a08658659614",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d44692d266fa008",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c12deaaeda28f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bf2fb5cca8fcd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Life changing books.md"
+              }
+            }
+          },
+          {
+            "id": "ff24ef916e465482",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e77c3fd5ae001b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "lastOpenFiles": [
+    "Books/Life changing books.md",
+    "Assets/1566_10300331_0.jpg",
+    "Books/Collecting old books.md",
+    "Books/Books.md",
+    "Hardware/ARM.md",
+    "Digital garden/Graph evolution.md",
+    "Hardware/Raspberry Pi.md",
+    "Hardware/Hardware.md",
+    "Electronics/Microcontrollers.md",
+    "Electronics/Nixie tubes.md"
+  ]
+}
