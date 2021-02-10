@@ -8,7 +8,7 @@ In France, money can be a big taboo. People don't really talk about money nor ho
 
 I started to work on how I manage my money when I started to learn about investment, mostly from my friend and co-founder Aurélien. This obviously have been accelerated by my company's growth but also by the fact I stoped earning recurring money from a day to day job and started to earn more from opportunity revenues, mostly teaching, where it's not rare to get your money 4 to 6 month after doing the job. So I really needed to be clearer on how I save and spend my money. 
 
-2020 was a great year to start investing and get a more accurate eye on my money as my expenses really slowed down. Aurélien introduced me to #trading and #real-estate #investement, as well as personal finance management. 
+2020 was a great year to start investing and get a more accurate eye on my money as my expenses really slowed down. Aurélien introduced me to #trading and #real-estate #investments ment, as well as personal finance management. 
 
 This really changed my way of thinking about money and I think, more than ever, that having the control over my money is making me more motivated to accomplish the things that matter to me and also significatively reduce my mental charge, which allow me to improve my #productivity, and be more aware and peaceful. 
 

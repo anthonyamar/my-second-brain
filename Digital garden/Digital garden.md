@@ -8,7 +8,7 @@ When I clicked on it, I discover a lot of folders, each named by a subject, with
 
 Digital gardens seems trendy right now, but like any thing that seems trendy and totally new, it often had more ancient roots. 
 
-In her article [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history), Maggie Appleton retrace the birth of the digital garden term in Mark Bernstein's 1998 manifestos [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html). He expose his vision about how web navigation problems and structure's limits can be solve by what he called Hypertext Gardening. 
+In her article [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history), Maggie Appleton retrace the birth of the digital garden term in Mark Bernstein's 1998 manifestos [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html). He expose his vision about how web navigation problems and structure's limits can be solved by what he called Hypertext Gardening. 
 
 >  Gardens are farmland that delights the senses; parks are wilderness, tamed for our enjoyment. Large hypertexts and Web sites must often contain both parks and gardens.
 > *-- Mark Bernstein*
@@ -42,5 +42,5 @@ I recently change for [Obsidian](https://obsidian.md/), that fit more my need be
 
 I also like the way people create their own website and tools for this. Such as [Ness Labs](https://nesslabs.com/), [Maggie Appleton](https://maggieappleton.com/garden) and [Joel Hooks](https://joelhooks.com/)
 
-Obviously, finding the perfect tool is very difficult, but this isn't the point I think. The point is to write things with a process that fit your need, your style and what you to share (or not, digital garden are not synonymous of sharing to the world). 
+Obviously, finding the perfect tool is very difficult, but this isn't the point I think. The point is to write things with a process that fit your need, your style and what you want to share (or not, digital garden are not synonymous of sharing to the world). 
 

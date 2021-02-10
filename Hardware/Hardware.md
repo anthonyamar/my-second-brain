@@ -1,4 +1,4 @@
-I really like hardware. It might be music hardware, computer hardware, [electronics](../electronics/) or anything like this.
+I really like hardware. It might be music hardware, computer hardware, [electronics](Electronics.md) or anything like this.
 
 ## Summary
 

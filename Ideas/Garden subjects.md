@@ -30,14 +30,14 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 - No and low code plateform for AR
 
 ### Learning
-- How to start learning code (for my friends who're asking me) ? 
+- How to start learning code (for my friends who're asking me)? 
 - The common learning patterns between playing music and writing code
 - What I don't know
 ### Ideas
 - The obsiBook, an interactive, collaborative and ever evolving book using Obsidian and Github. 
 
 ### Startup
-- My journey at Station F, the world's biggest startup campus
+- My journey at Station F, the world's biggest startup campus ✅
 - How to pitch
 
 ### Artificial Intelligence
@@ -54,11 +54,11 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 
 ### Productivity
 - The Zettelkasten method
-- Using the Zettelkasten method for music with Obsidian and computer music gear
+- Using the Zettelkasten method for music with Obsidian and computer music gear ✅
 
 ### Projects
 - My projects graveyard - RIP 
 
 ### [Books](Books.md)
-- Books that changed my life
+- Books that changed my life ✅
 - Anti library

@@ -15,3 +15,7 @@
 ![](Pasted%20image%2020210201223712.png)
 
 ![](Pasted%20image%2020210203235412.png)
+
+![](Pasted%20image%2020210206011253.png)
+
+![](Pasted%20image%2020210208235056.png)

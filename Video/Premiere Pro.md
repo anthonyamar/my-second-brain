@@ -1,12 +1,13 @@
 I'm learning Adobe Premiere Pro since I get a new #GoPro and started to create an online video formation about music business. 
 
-The usage I have is to make vlogs, lessons and mostly for [scuba diving](Scuba%20diving.md) and [underwater videos](Making%20underwater%20videos.md). 
+The usage I have is to make vlogs, lessons, #guitar, and mostly for [scuba diving](Scuba%20diving.md) and [underwater videos](Making%20underwater%20videos.md). 
 
 Here's link curation and some notes. 
 
 ## General usage
 - [Learn Premiere Pro in 20 minutes](https://www.youtube.com/watch?v=Hls3Tp7JS8E)
 - [8 steps to edit a video in Premiere Pro - Workflow start to finish](https://www.youtube.com/watch?v=ZQDGJn89uNk)
+- [Export a portion of videos on timeline](https://www.youtube.com/watch?v=gpzn9ZBckRs)
 
 ## Edititing
 - [9 cuts every video editor should know](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo)
@@ -14,6 +15,7 @@ Here's link curation and some notes.
 - [Croping videos in Premiere Pro](https://www.youtube.com/watch?v=kmul0jUfIXs)
 - [Stabilize shaky footages](https://www.youtube.com/watch?v=_ta3-imPXTc)
 - [Create smooth slow motion](https://www.youtube.com/watch?v=zkLXkmMWKA8)
+- [Clone yourself using the crop effect](https://www.youtube.com/watch?v=djFymNOGMA4)
 
 ## Effects
 ### Colors

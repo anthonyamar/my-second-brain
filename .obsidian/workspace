@@ -6,12 +6,11 @@
       {
         "id": "e412e1a191f0a738",
         "type": "leaf",
-        "dimension": 48.62385321100917,
-        "active": true,
+        "dimension": 48.4375,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books/Life changing books.md",
+            "file": "Welcome in my mind 🧠.md",
             "mode": "source"
           }
         },
@@ -20,11 +19,12 @@
       {
         "id": "3e47891c109bb253",
         "type": "leaf",
-        "dimension": 31.03975535168196,
+        "dimension": 30.20833333333333,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books/Life changing books.md",
+            "file": "Welcome in my mind 🧠.md",
             "mode": "source"
           }
         },
@@ -33,7 +33,7 @@
       {
         "id": "ac36f4c561210011",
         "type": "split",
-        "dimension": 8.287461773700308,
+        "dimension": 7.230392156862746,
         "children": [
           {
             "id": "55b44e1a04c41f29",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Life changing books.md"
+                "file": "Welcome in my mind 🧠.md"
               }
             },
             "group": "50e1881812325b3d"
@@ -52,7 +52,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Life changing books.md",
+                "file": "Welcome in my mind 🧠.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -65,15 +65,58 @@
         "direction": "horizontal"
       },
       {
-        "id": "a5372c320ec5eab6",
-        "type": "leaf",
-        "dimension": 12.048929663608565,
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
+        "id": "4a0849f345c556da",
+        "type": "split",
+        "dimension": 14.123774509803921,
+        "children": [
+          {
+            "id": "a5372c320ec5eab6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0adef48a611c3ce0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Welcome in my mind 🧠.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.33832720588235,
+                  "lineSizeMultiplier": 0.700790441176471,
+                  "collapse-forces": true,
+                  "centerStrength": 0.285202205882353,
+                  "repelStrength": 15.3253676470588,
+                  "linkStrength": 0.430974264705882,
+                  "linkDistance": 474,
+                  "scale": 0.0702049935927612,
+                  "close": true
+                }
+              }
+            },
+            "group": "50e1881812325b3d"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -113,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306
   },
   "right": {
     "id": "5d44692d266fa008",
@@ -129,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Life changing books.md"
+                "file": "Welcome in my mind 🧠.md"
               }
             }
           },
@@ -145,7 +188,7 @@
             }
           },
           {
-            "id": "8e77c3fd5ae001b7",
+            "id": "6e5e762755394615",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -160,15 +203,15 @@
     "width": 210
   },
   "lastOpenFiles": [
-    "Books/Life changing books.md",
-    "Assets/1566_10300331_0.jpg",
-    "Books/Collecting old books.md",
+    "Welcome in my mind 🧠.md",
+    "Library/The Proper Study - Laverna Hane.md",
+    "Library/0 - My library.md",
+    "Library/Untitled.md",
     "Books/Books.md",
-    "Hardware/ARM.md",
     "Digital garden/Graph evolution.md",
-    "Hardware/Raspberry Pi.md",
-    "Hardware/Hardware.md",
-    "Electronics/Microcontrollers.md",
-    "Electronics/Nixie tubes.md"
+    "Business model/Freemium.md",
+    "Books/Life changing books.md",
+    "Library/1984 - Georges Orwell.md",
+    "Library/Journey to the center of the earth - Jules Verne.md"
   ]
 }

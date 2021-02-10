@@ -29,7 +29,9 @@ Just like this :
 
 I'm mostly using GitJournal to brain drop my ideas on my smartphone. It sync a Github repository that is also my Obsidian vault. When I'm in a situation I can't or don't want to use my phone, I'm just using a pencil and a notebook. More on [my tools](My%20tools.md) here!
 
-After writing down things, I'm reviewing it on my computer and write it here, on my garden. 
+After writing down things, I'm reviewing it on my computer and write it here, on my garden. I'm classifying ideas in two different folders :
+- ==Graveyard== where I keep track of my dead ideas. The ones I tried but didn't worked for any reasons and from which I learned. 🕯 
+- ==Incubator== where I put my still green ideas. I never tried it (and so can't put it in my Graveyard 😄) and for some, maybe never will. But I still want to have them. 🌱
 
 I use hashtags to categorize each ideas, according to the #zettelkasten method, and then let Obsidian do the magic to connect them together using the graph method. 
 
