@@ -1,0 +1,25 @@
+---
+aliases: ["French Touch, Une épopée électro"] 
+tags: 
+  - "books/read" 
+  - "books/paperback" 
+  - "books/french"
+  - "books/music-history"
+  - "books/paperback"
+  - "books/physical"
+---
+
+
+## French Touch, Une épopée électro
+This book from Stéphane Jourdain was edited by Castor Music and released in 03/15. I had it for 14.0€ from La Ciotat. I read the 247 pages.
+
+## More on this book :
+- Buying date : 23/03/17
+- Buying condition : brand_new
+- Actual condition : good
+- Book type : physical
+- Binding : paperback
+- Language : French
+- Category : Music history
+- ISBN : 9791027800414
+- Weight in grams : 208

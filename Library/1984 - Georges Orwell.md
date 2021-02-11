@@ -1,6 +1,12 @@
 ---
-aliases: ["1984"]
-tags: ["books/novel", "dystopy"]
+aliases: ["1984"] 
+tags: 
+  - "books/read" 
+  - "books/paperback" 
+  - "books/french"
+  - "books/novel-xxth"
+  - "books/paperback"
+  - "books/physical"
 ---
 
 Maybe one of the most famous dystopic #novel of all times. 1984 pleased a lot of people and I do not make exception here. 
@@ -12,3 +18,17 @@ What struck me about this book, is obviously the terrifying similarities you can
 There would have a lot to say about this book, about the concepts like the newspeak language,  the slogans, the proletarians, the ministries, the doublethink, Big Brother, the truth, the lie, the mass surveillance, the censorship... This is in fact, one of the most powerful and eye-opening book I read for sure. I read it two times. 
 
 ![350](life_changing_books_1984.jpg)
+
+## 1984
+This book from Georges Orwell was edited by Folio and released in 07/13. I had it for 8.99€ from Fnac. I read the 407 pages.
+
+## More on this book :
+- Buying date : 23/03/15
+- Buying condition : brand_new
+- Actual condition : regular
+- Book type : physical
+- Binding : paperback
+- Language : French
+- Category : Novel XXth
+- ISBN : 9782070368228
+- Weight in grams : 210

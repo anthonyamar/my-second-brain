@@ -1,0 +1,25 @@
+---
+aliases: ["Les Secrets Du Nombre π : Pourquoi La Quadrature Du Cercle Est Elle Impossible ? #6"] 
+tags: 
+  - "books/read" 
+  - "books/hardcover" 
+  - "books/french"
+  - "books/mathematics"
+  - "books/hardcover"
+  - "books/physical"
+---
+
+
+## Les Secrets Du Nombre π : Pourquoi La Quadrature Du Cercle Est Elle Impossible ? #6
+This book from Joaquín Navaro was edited by Le Monde Est Mathématique and released in 03/13. I had it for 10.0€ from Le Monde. I read the 145 pages.
+
+## More on this book :
+- Buying date : 23/03/13
+- Buying condition : brand_new
+- Actual condition : very_good
+- Book type : physical
+- Binding : hardcover
+- Language : French
+- Category : Mathematics
+- ISBN : 
+- Weight in grams : 462

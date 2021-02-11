@@ -6,11 +6,12 @@
       {
         "id": "e412e1a191f0a738",
         "type": "leaf",
-        "dimension": 48.4375,
+        "dimension": 48.560049019607845,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welcome in my mind 🧠.md",
+            "file": "Library/-My library.md",
             "mode": "source"
           }
         },
@@ -19,13 +20,12 @@
       {
         "id": "3e47891c109bb253",
         "type": "leaf",
-        "dimension": 30.20833333333333,
-        "active": true,
+        "dimension": 28.40073529411764,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welcome in my mind 🧠.md",
-            "mode": "source"
+            "file": "Library/-My library.md",
+            "mode": "preview"
           }
         },
         "group": "50e1881812325b3d"
@@ -33,7 +33,7 @@
       {
         "id": "ac36f4c561210011",
         "type": "split",
-        "dimension": 7.230392156862746,
+        "dimension": 7.261029411764705,
         "children": [
           {
             "id": "55b44e1a04c41f29",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome in my mind 🧠.md"
+                "file": "Library/-My library.md"
               }
             },
             "group": "50e1881812325b3d"
@@ -52,7 +52,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome in my mind 🧠.md",
+                "file": "Library/-My library.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -65,9 +65,9 @@
         "direction": "horizontal"
       },
       {
-        "id": "4a0849f345c556da",
+        "id": "a7ff7ef2afc80106",
         "type": "split",
-        "dimension": 14.123774509803921,
+        "dimension": 15.778186274509801,
         "children": [
           {
             "id": "a5372c320ec5eab6",
@@ -80,35 +80,35 @@
             }
           },
           {
-            "id": "0adef48a611c3ce0",
+            "id": "65fdfaf5597a27d4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Welcome in my mind 🧠.md",
+                "file": "Library/-My library.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.33832720588235,
-                  "lineSizeMultiplier": 0.700790441176471,
-                  "collapse-forces": true,
-                  "centerStrength": 0.285202205882353,
-                  "repelStrength": 15.3253676470588,
-                  "linkStrength": 0.430974264705882,
-                  "linkDistance": 474,
-                  "scale": 0.0702049935927612,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4267281243523272,
                   "close": true
                 }
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome in my mind 🧠.md"
+                "file": "Library/-My library.md"
               }
             }
           },
@@ -203,15 +203,15 @@
     "width": 210
   },
   "lastOpenFiles": [
-    "Welcome in my mind 🧠.md",
-    "Library/The Proper Study - Laverna Hane.md",
-    "Library/0 - My library.md",
-    "Library/Untitled.md",
-    "Books/Books.md",
-    "Digital garden/Graph evolution.md",
-    "Business model/Freemium.md",
-    "Books/Life changing books.md",
+    "Library/-My library.md",
     "Library/1984 - Georges Orwell.md",
-    "Library/Journey to the center of the earth - Jules Verne.md"
+    "Library/1984 - Georges Orwell -.md",
+    "Library/1984 - Georges Orwell - en.md",
+    "Library/Anyone Can Become An Entrepreneur - Oussama Ammar.md",
+    "Library/A Promised Land - Barack Obama.md",
+    "Library/1791, La Dernière Année De Mozart - H.C. Robbins Landon.md",
+    "Digital garden/Graph evolution.md",
+    "Library/0 - My library.md",
+    "Welcome in my mind 🧠.md"
   ]
 }
