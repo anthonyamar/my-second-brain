@@ -1,3 +1,7 @@
+---
+aliases: ["digital gardening", "garden"]
+tags: ["digital-garden", "writing"]
+---
 ## What is digital gardening? 
 
 In my opinion and in short : I think digital gardens as digital spaces where people grows their ideas from seed to tree : 🌱 -> ☘️  -> 🍀  -> 🌿 -> 🌲 -> 🎄
@@ -17,6 +21,10 @@ It's, I think, difficult to get out a formal definition of what is or what is no
 
 I'm not a digital garden historian, but watching it with a new eye, it seems to be a crossbreeding of a blog, a Wiki and a (personal) [knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) system, with influences of [zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) note taking method. 
 
+I love how Maggie Appleton is placing digital gardens among other kind of text based expression systems, ==between the chaos streams and the cultivated performance==.
+
+![](digital-garden.png)
+
 ## Why digital gardens?
 
 For me, as I wrote it in [Welcome in my mind 🧠](Welcome%20in%20my%20mind%20%F0%9F%A7%A0.md), it's really the format and this mix of blog, wiki and PKM that feel great to me : 
@@ -32,7 +40,7 @@ For me, as I wrote it in [Welcome in my mind 🧠](Welcome%20in%20my%20mind%20%F
 * Allow people to dive deep into a wide variety of fields and engage with me about what spark their curiosity. 
 
 ## Which tools? 
-Spoiler : This will not talk abput rake, hoe and shovel.
+Spoiler : This will not talk about rake, hoe and shovel.
 
 Digital gardening come in lots of diffent flavours and are also made with a big variety of tools. Some are using custom made tools, other basic note taking apps with their own system or more "adapted" tools such as note taking apps that support bi-directional links like [Roam Research](https://roamresearch.com/) or [Obsidian](https://obsidian.md/).
 

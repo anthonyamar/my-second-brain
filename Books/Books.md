@@ -8,7 +8,7 @@ My reading skills and needs started to take off when I discover that books weren
 
 What I found absolutly amazing about books, among others, is that this object allow anybody to access the ideas of the wisest and most creative minds that the world ever gave birth to! And, as writing exist since the dawn of time, books traverse the history so that anyone can time travel (sort of) or even possessed pieces of history. 
 
-So here, I'll be writing about books : the books I love, the books I collect, the curiosities and my collection of old books and why and how I buy some. 
+So here, I'll be writing about books : the books I love, the books I collect, the curiosities and my collection of [old books](Collecting%20old%20books.md) and why and how I buy some. 
 
 ## Summary :
 - [Collecting old books](Collecting%20old%20books.md)

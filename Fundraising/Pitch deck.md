@@ -1,3 +1,7 @@
+---
+tags: ["fundraising/pitch-deck", "startup", "pitch"]
+---
+
 ## Famous company's pitch deck
 We can't talk about [fundraising](Fundraising.md) without talking about pitch deck. Creating an impacting pitch deck is an art in itself. What to put in? How to design? What's the plan? What numbers do I choose? Who I send it to? 
 

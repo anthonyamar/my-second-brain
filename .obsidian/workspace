@@ -6,12 +6,12 @@
       {
         "id": "e412e1a191f0a738",
         "type": "leaf",
-        "dimension": 48.560049019607845,
+        "dimension": 48.314950980392155,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Library/-My library.md",
+            "file": "Fundraising/Pitching a VC - SaaS case.md",
             "mode": "source"
           }
         },
@@ -20,11 +20,11 @@
       {
         "id": "3e47891c109bb253",
         "type": "leaf",
-        "dimension": 28.40073529411764,
+        "dimension": 32.04656862745098,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Library/-My library.md",
+            "file": "Fundraising/Pitching a VC - SaaS case.md",
             "mode": "preview"
           }
         },
@@ -33,7 +33,7 @@
       {
         "id": "ac36f4c561210011",
         "type": "split",
-        "dimension": 7.261029411764705,
+        "dimension": 7.0465686274509824,
         "children": [
           {
             "id": "55b44e1a04c41f29",
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/-My library.md"
+                "file": "Fundraising/Pitching a VC - SaaS case.md"
               }
             },
             "group": "50e1881812325b3d"
@@ -52,12 +52,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/-My library.md",
+                "file": "Fundraising/Pitching a VC - SaaS case.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -67,7 +67,7 @@
       {
         "id": "a7ff7ef2afc80106",
         "type": "split",
-        "dimension": 15.778186274509801,
+        "dimension": 12.591911764705884,
         "children": [
           {
             "id": "a5372c320ec5eab6",
@@ -85,9 +85,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/-My library.md",
+                "file": "Fundraising/Pitching a VC - SaaS case.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -97,18 +97,33 @@
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:#books/not-read",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12811997
+                      }
+                    },
+                    {
+                      "query": "tag:#books/read",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4267281243523272,
+                  "nodeSizeMultiplier": 2.33832720588235,
+                  "lineSizeMultiplier": 0.703492647058824,
+                  "collapse-forces": true,
+                  "centerStrength": 0.365625,
+                  "repelStrength": 20,
+                  "linkStrength": 0,
+                  "linkDistance": 30,
+                  "scale": 0.04036425103484312,
                   "close": true
                 }
               }
@@ -143,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#books/physical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/-My library.md"
+                "file": "Fundraising/Pitching a VC - SaaS case.md"
               }
             }
           },
@@ -203,15 +218,15 @@
     "width": 210
   },
   "lastOpenFiles": [
-    "Library/-My library.md",
-    "Library/1984 - Georges Orwell.md",
-    "Library/1984 - Georges Orwell -.md",
-    "Library/1984 - Georges Orwell - en.md",
-    "Library/Anyone Can Become An Entrepreneur - Oussama Ammar.md",
-    "Library/A Promised Land - Barack Obama.md",
-    "Library/1791, La Dernière Année De Mozart - H.C. Robbins Landon.md",
-    "Digital garden/Graph evolution.md",
-    "Library/0 - My library.md",
-    "Welcome in my mind 🧠.md"
+    "Fundraising/Pitching a VC - SaaS case.md",
+    "Music theory/Chords progressions.md",
+    "Electronics/Wiring audio cables.md",
+    "Electronics/Nixie tubes.md",
+    "Electronics/Electronics.md",
+    "Digital garden/Digital garden.md",
+    "Business model/Newsletters.md",
+    "Business model/Freemium.md",
+    "Startup/My journey at Station F.md",
+    "Projects/Books and Binders.md"
   ]
 }

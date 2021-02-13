@@ -33,7 +33,7 @@ I came back to his library a month or two later to buy my first old book with th
 
 I bought a book from 1756 entitled "Connoi∫∫ance de la mythologie" (can be translated as : Knowledge about mythology). I bought it way too high for it's condition and I can totally say that I was screwed but anyway, the guy was kind and he sparked into me the interest of collecting old books.
 
-*-My very first old book-*
+*- My very first old book -*
 ![old_books_my_first](old_books_my_first.jpg)
 
 
@@ -45,7 +45,7 @@ Another very widespread term is "rare book" that englobe "old books" and "collec
 
 We can recognize an old book just by his binding and his paper. The most widespread bindings in the world of old books are the ones with brown leather that usualy date the book to the XVIII century.
 
-*-An old books library with brown leather bindings-*
+*- An old books library with brown #books/leather  bindings -*
 ![old_books_library](old_books_library.jpg)
 
 ## Why people collect old books
@@ -61,7 +61,7 @@ I think there is as much reason as collectors but here some reasons you might li
 
 Obviously, the most widespread reason is simply the passion of books. Like any collection, it all start with passion. 
 
-*-Two of my Jules Vernes - Hetzel's cardboard-*
+*- Two of my Jules Vernes - Hetzel's #books/cardboard -*
 ![old_books_my_hetzel](old_books_my_hetzel.jpg)
 
 ## Where to buy old books 
@@ -77,7 +77,7 @@ Rare books can be bought in various places, both offline and online. Here's the 
 
 What I like to do is book safaris : each time I'm going to a new city, I search for a book store and come back home with new old books. I have the [Livre Rare Book app](https://play.google.com/store/apps/details?id=com.lrb.android.lrb) that list on a map the rare book stores and events around you. Pretty useful! 
 
-*-Grand Palais' exhibition for rare books and collectible art objects-*
+*- Grand Palais' exhibition for rare books and collectible art objects -*
 ![old_books_grand_palais](old_books_grand_palais.jpg)
 
 ## Pricing an old book
@@ -89,7 +89,7 @@ Just like other collections, books can go from 0€ to millions! The cost depend
 - The edition : First editions are the most expansivest books
 - The subject : Some subject attract more than other, so it tend to drive up the price of the books
 - The author : Some authors are known as more valuable. Jules Verne is one of them. But it also can be a trend : Victor Hugo after the burning of Notre Dame seen his books value go way to high
-- The binding : There's many differents bindings technics, espacialy in leather. Sow skin or vellum (stillborn calf skin), for example, tend to be more expansive
+- The binding : There's many differents bindings technics, espacialy in #books/leather. Sow skin or #books/vellum (stillborn calf skin), for example, tend to be more expansive
 - The presence and the kind of graphics : Just like the binding, there's many different graphic techic. Mediaeval illumination graphic technic is one of the most expansive one for books. Engravings are more popular so can be cheaper. 
 - The history of the book : I once see the 2nd edition of *De Revolutionibus orbium coelestium* from Nicolas Copernic (1530) at the Grand Palais' exhbition. This is the book where Nicolas Copernic expose his theory about heliocentrism. The book was to sell at 250 000€. And watch out: It was just a 2nd edition!
 - The presence of a signatures or annotations : If the book is signed by the author himself, it can reach very high prices. Margin annotations can also be a price factor, depending on what and who wrote them, the price can rise or fall. 
@@ -100,5 +100,5 @@ By the way, the most expansive book of all time is [Leonardo da Vinci' notebook 
 
 And of course, you don't need to be Bill Gates to start collecting old books. My average spending on old books is around 100€, and the less expansive one I have in my collection is a 1719 book "Private life of Louis XV" I get at auction on eBay for 2€. And it is in a very great condition! 
 
-*-De Revolutionibus orbium coelestium - Nicolas Copernicus (1530)-*
+*- De Revolutionibus orbium coelestium - Nicolas Copernicus (1530) -*
 ![old_books_leceister_codex](old_books_copernicus.jpg)

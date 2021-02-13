@@ -289,3 +289,15 @@ Im IIb7M Im
 Am Bb7M Am
 ```
 
+## Neo soul
+### 2 of us
+```text
+VI7M V7 Im
+F7M  E7 Am
+```
+
+### Caldwell
+```text
+VI7M V7 Im  IV7
+F7M  E7 Am D7
+```

@@ -12,7 +12,7 @@ Before even thinking to write my own \(even if I have some ideas of esoteric lan
 
 By the way, here's the video :
 
-{% embed url="https://www.youtube.com/watch?v=6avJHaC3C2U" caption="The Art of Code - Dylan Beattie" %}
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/6avJHaC3C2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Links :
 
@@ -41,23 +41,4 @@ By the way, here's the video :
 * [Building a toy programming language in Ruby: Introduction - Honeybadger](https://www.honeybadger.io/blog/stoffle-introduction/)
 * [Building a toy programming language in Ruby: The parser - Honeybadger](https://www.honeybadger.io/blog/ruby-parser-stoffle/)
 * [How to implement a programming language in JavaScript - Lisperator](http://lisperator.net/pltut/)
-
-## Turing completeness
-
-One of the most popular terms when working around programming language creation is the concept of Turing completeness.
-
-In simple terms, to be called "Turing complete", a given language must have the ability to do anything that a [Turing machine](https://www.youtube.com/watch?v=PLVCscCY4xI) can do.
-
-Basically, a very large amount of modern programming languages are Turing complete. They're all able to run any kind of program and solve any computation problems that a Turing machine can run given enough time and memory.
-
-Links :
-
-* [Turing completeness - Wikipedia](https://en.wikipedia.org/wiki/Turing_completeness)
-* [What is Turing complete? - Stackoverflow](https://stackoverflow.com/questions/7284/what-is-turing-complete)
-* [Is CSS Turing complete? \(tl;dr : people don't agree, see why\) - Stackoverflow](https://stackoverflow.com/questions/7284/what-is-turing-complete)
-* [Turing complete - Computerphile](https://www.youtube.com/watch?v=RPQD7-AOjMI)
-* [JavaScript is Turing complete - freeCodeCamp](https://www.freecodecamp.org/news/javascript-is-turing-complete-explained-41a34287d263/#.6t0b2w66p)
-* [The Annotated Turing : A guided tour through Alan Turing's historic paper on computability and the Turing machine - Charles Petzold \(book\)](https://www.amazon.com/dp/0470229055)
-* [Rule 110 - Wikipedia](https://en.wikipedia.org/wiki/Rule_110)
-* [Halting problem](https://en.wikipedia.org/wiki/Halting_problem)
 
