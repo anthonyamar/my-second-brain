@@ -13,7 +13,7 @@ I consider myself as an internet offspring. I had the chance to access to comput
 
 > This kind of project is called a [Digital garden](https://garden.anthonyamar.fr/Digital+garden/Digital+garden). 
 
-![](Pasted%20image%2020210213140021.png) 
+![](Assets/Screenshot%202021-02-13%20at%2014.16.39.png)
 *My graph view for all the notes I have here.*
 
 First, let's be honest : I create this project mostly for myself. It can act as an outlet, but it's essentially a place, where I keep track of what I know. It's like my own personal wiki, full of references to things I know. It allows me to search in and find easily ideas, references, links, personals notes and all kind of stuff I can and want to keep a trace of.
