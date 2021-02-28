@@ -7,6 +7,9 @@ So here's some of my thoughts, lists, links, notes and course preparations on #I
 ## Summary
 - [A brief history of IoT](A%20brief%20history%20of%20IoT.md)
 - [IoT Application : the smart home](Smart%20home.md)
+- [Non exhaustive device list for smart home](Non%20exhaustive%20device%20list%20for%20smart%20home.md)
+- #IoT/devices 
+- #IoT/smart-home 
 
 ## Associated plots
 - [Raspberry Pi](Raspberry%20Pi.md)

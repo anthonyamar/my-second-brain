@@ -1,3 +1,10 @@
+---
+tags: 
+- "#music"
+- "#live"
+- "#evergreen/list"
+---
+
 I'm working on a project in the north of France, so I wanted to keep track of music places in there.
 
 ## Lille

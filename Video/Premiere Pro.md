@@ -8,6 +8,7 @@ Here's link curation and some notes.
 - [Learn Premiere Pro in 20 minutes](https://www.youtube.com/watch?v=Hls3Tp7JS8E)
 - [8 steps to edit a video in Premiere Pro - Workflow start to finish](https://www.youtube.com/watch?v=ZQDGJn89uNk)
 - [Export a portion of videos on timeline](https://www.youtube.com/watch?v=gpzn9ZBckRs)
+- [How to film guitar covers](https://www.youtube.com/watch?v=0Bnd4NPlSuA)
 
 ## Edititing
 - [9 cuts every video editor should know](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo)
@@ -22,9 +23,11 @@ Here's link curation and some notes.
 - [Color grading using Lumetri plugin](https://www.youtube.com/watch?v=RvFCnVRcT3Q)
 - [Color grading videos in Premiere Pro - Workflow](https://www.youtube.com/watch?v=Cm9p61sqr_U)
 
-### Fades
+### Fades and transitions
 - [Fade to black transition in a minute](https://www.youtube.com/watch?v=WiOg_7Zchgk)
 - [Fade audio in a minute](https://www.youtube.com/watch?v=izZy5EWxrDE)
+- [Cross fade between clips in a minute](https://www.youtube.com/watch?v=wDVCyXF8Siw)
+- [How to zoom in and out](https://www.youtube.com/watch?v=f-Uaz4NyOXU)
 
 ### Texts
 - [Smooth professional text animation in Premiere Pro](https://www.youtube.com/watch?v=-SquB8m_MVo)

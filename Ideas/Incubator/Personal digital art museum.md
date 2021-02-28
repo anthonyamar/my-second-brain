@@ -10,7 +10,7 @@ According to [Ledger](https://www.ledger.com/academy/what-are-nft), NFTs are sto
 
 Digital arts aren't the kind of art you can watch to everyday as you would star at your favorite painting hooked on your wall. 
 
-The idea behind the personal digital art museum is to give the ability to collectors to put exhib their digital goods on their wall. Not physicaly, but virtualy, using augmented reality. 
+The idea behind the personal digital art museum is to give the ability to collectors to put exhib their digital goods on their wall. Not physicaly, but virtualy, using [augmented reality](Augmented%20reality.md). 
 
 By sticking a trigger sign on a wall, such as a QR code i.e., a user could flash it using the appropriate app and see the piece come to live, thanks to augmented reality. 
 

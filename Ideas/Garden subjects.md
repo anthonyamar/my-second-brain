@@ -27,12 +27,13 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 - The use of [argon](https://en.wikipedia.org/wiki/Argox) 
 
 ### Augmented Reality
-- No and low code plateform for AR
+- No and low code plateform for AR ✅
 
 ### Learning
 - How to start learning code (for my friends who're asking me)? 
 - The common learning patterns between playing music and writing code
 - What I don't know
+
 ### Ideas
 - The obsiBook, an interactive, collaborative and ever evolving book using Obsidian and Github. 
 
@@ -53,11 +54,11 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 - The blogs and digital gardens that inspire me
 
 ### Productivity
-- The Zettelkasten method
+- The Zettelkasten method 
 - Using the Zettelkasten method for music with Obsidian and computer music gear ✅
 
 ### Projects
-- My projects graveyard - RIP 
+- My projects graveyard - RIP ✅
 
 ### [Books](Books.md)
 - Books that changed my life ✅

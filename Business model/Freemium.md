@@ -1,8 +1,13 @@
+---
+tags:
+- "#business-model/SaaS"
+---
+
 ## What's the freemium business model?
 
 Freemium is a #business-model model where the service can be use for free, but limited either/both in features or quantity. Acceeding to the full service need to subscribe to a premium plan. 
 
-This business model is one of the most popular among smartphone apps or #SaaS (Software as a Service) businesses. Among others : Dropbox, Mailchimp, Medium, Spotify, Slack, Github, Hubspot... are freemium apps. 
+This business model is one of the most popular among smartphone apps or SaaS (Software as a Service) businesses. Among others : Dropbox, Mailchimp, Medium, Spotify, Slack, Github, Hubspot... are freemium apps. 
 
 ## Freemium KPIs
 
