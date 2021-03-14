@@ -11,7 +11,7 @@ It's also risky to create music studios in some places like apartment or offices
 
 So when this arrive and that you need to move out there's two options :
 - You put a cross on your infrastructures and start from scratch new studios.
-- You have removable studios, so you just dismantle the studios and take it to your new place. 
+- You have removable studios, so you just dismantle them and put them back to your new place. 
 
 Creating removable studios will obviously cost more upfront than regular studios made with non removable materials (like plasterboards things i.e.), but this will be always less expansive than throwing out all of your work and start from scratch. 
 

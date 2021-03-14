@@ -8,7 +8,7 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 -	Three.JS (when I'll start the [Three.JS Journey course](https://threejs-journey.xyz/))
 	
 ### Blockchain
-- Non Fungible Tokens  - #NFT
+- Non Fungible Tokens (NFT) ✅
 
 ### Open source
 - My open source projects
@@ -45,8 +45,8 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 - How I created a Tinder bot using artificial intelligence
 
 ### Music studios
-- Soundproofing
-- Acoustic
+- Soundproofing ✅
+- Acoustic 
 - Creating a [Studiomatic](https://www.studiomatic.co/en/) from scratch : our process
 - Using IoT to reinvent artists experience
 

@@ -1,10 +1,11 @@
 ## Zettelkasten note taking method in short
+👏   &nbsp; [Clap this article on Medium](https://anthony-amar.medium.com/unleash-your-musicianship-by-applying-the-zettelkasten-method-to-music-b2ec7de6d2dc) 
 
 Since I'm using #Obsidian as my main note talking app and for my digital garden, I discovered several ways of improving my workflows and my creativity, as well as various #productivity and #creativity workflows and methods. 
 
 One that held my attention is the #zettelkasten method. We owe this method to, among others, [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) who was a German sociologist considered as one of the most important social theorists of the 20th century. 
 
-What is impressive about Luhmann, is that he wrote ==more than 70 books and 400 scholarly articles== on a wide variety of subjects such as sociology, art, religion, medias, love, law, politics, etc. by using the zettelkasten note talking method. 
+What is impressive about Luhmann, is that he wrote ==more than 70 books and 400 scholarly articles== on a wide variety of subjects such as sociology, art, religion, medias, love, law, politics, etc. by using the zettelkasten note-taking method. 
 
 The system consists of many atomic notes or short pieces of information written on index cards, numbered hierarchically to order it and containing metadata such as tags, stored in drawer cabinets. This kind of organization allowed Luhmann to better review notes and connect way more easily ideas together, thanks to the tag system. Luhmann had around 90,000 index cards for his research. Impressive! 🤯
 
@@ -81,7 +82,7 @@ The multi-tag feature of Obsidian is useful for this purpose. The YAML header an
 
 ### Using YAML front matter to tag notes
 
-By using the #YAML front matter, we could set theses tags easily at the top of each new idea (the template plugin is useful for that) and you'd just fill the needed values. YAML is a very easy data format language that uses a simple `key: value` couple to define things. Here's the basic example of how to write a YAML front matter in Obsidian: 
+By using the #YAML front matter, we could set these tags easily at the top of each new idea (the template plugin is useful for that) and you'd just fill the needed values. YAML is a very easy data format language that uses a simple `key: value` couple to define things. Here's the basic example of how to write a YAML front matter in Obsidian: 
 
 ```yaml
 ---
@@ -171,6 +172,7 @@ Obsidian has a lot of features that could be used to make the most of your music
 - ==Embed web pages or dynamic content==. Since v0.10.11, you can embed web content such as YouTube videos, Spotify/Soundcloud/Bandcamp players and any other embeddable content, even non-embeddable content, such as pure websites. Using i.e., [Flat.io](https://flat.io/), you could now embed complete scores and music sheets with its dedicated MIDI player to add to your audio file.
 - ==Automatic backup on Dropbox (or any other cloud)==. As everything is stored locally, nothing prevents you from saving the files in a Google Drive or Dropbox folder so you don't need to constantly think about backups. If something bad happens, like data loss or your computer was stolen, you'd still have all of your work backed up. 
 - ==Embed complex searches==. Using the code block feature in Obsidian, complex searches can be embedded in a note, so it displays every note as a permanent link. This can be really useful if you want to create dynamic indexes such as "All recording made playing the guitar" so each time you create a new record with the tag `#instruments/guitar`, the link is added to the list.
+- ==Color grouping nodes on graph==. When you start having a lot of ideas, the graph can be a bit messy. You can apply different colors on your graph’s nodes based on query. I.e, you can make every notes having the tag “#instruments/piano” in a specific color to see it with more ease.
 
 ### Features we could expect in the future
 

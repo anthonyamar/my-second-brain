@@ -12,6 +12,7 @@ If you're into one of these reason then, you can contact me here :
 - **[Email : hello@anthonyamar.fr](mailto:hello@anthonyamar.fr)**
 - **[Github : anthonyamar](https://github.com/anthonyamar)**
 - **[LinkedIn : /in/anthonyamar](https://fr.linkedin.com/in/anthonyamar)**
+- **[Medium: anthony-amar](https://anthony-amar.medium.com/)**
 
 Looking forward to meet you! 😄 🤘
 

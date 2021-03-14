@@ -1,6 +1,6 @@
 ## What is digital art?
 
-I recently discovered #digital-art as financial assets through #NFT ([Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token)) in an #investments newsletter. I liked the concept a lot and appear to me as the most concrete application of #blockchain in art so far. 
+I recently discovered #digital-art as financial assets through [Non Fungible Tokens (NFT)](Non%20Fungible%20Tokens%20(NFT).md) in an #investments newsletter. I liked the concept a lot and appear to me as the most concrete application of #blockchain in art so far. 
 
 Digital art marketplace has emerged, allowing art fans, collectors and investors to buy piece of art with a cotation that can rise (or fall) and have the certainty of his ownership and authenticity thanks to non fungible tokens, #smart-contract and #Ethereum blockchain. 
 
@@ -45,29 +45,3 @@ Same as the buy button, but with a rent system : rent a piece of art for a deter
 
 ### Place a bid CTA
 Same as the buy or rent button, but with bids. A visitor could place a bid on auctioned pieces. The auction and/or the bid could be time limited. Just like eBay, but for digital arts in physical events. 
-
-## Links
-
-### About
-- [Nifties - Blog on diigtal art](https://nifties.com/)
-- [NFT Wikipedia](https://en.wikipedia.org/wiki/Non-fungible_token)
-- [What are NFT - Ledger](https://www.ledger.com/academy/what-are-nft)
-- [Non Fungible Tokens may become the trendsetter in the industry](https://medium.com/datadriveninvestor/non-fungible-tokens-nft-may-become-the-trendsetter-in-the-industry-47880fe20626)
-- [The Defiant guide to Digital Art](https://thedefiant.substack.com/p/the-defiants-guide-to-digital-art)
-- [$170 000 Digital Artwork sold](https://www.youtube.com/watch?v=VecNo4raNUY)
-- [TEDx - What is the future of Art on Blockchain](https://www.youtube.com/watch?v=QlgE_mmbRDk)
-
-### Marketplaces
-- [Rarible - First community-owned NFT marketplace](https://rarible.com/)
-- [Terra Virtua - Immersive digital collectible platform](https://terravirtua.io/)
-- [OpenSea - Largest marketplace for rare items](https://opensea.io/)
-- [CryptoKitties - Collect and breed furrever friends](https://www.cryptokitties.co/)
-
-### Artists
-- [Mienar - Digital artist](https://mienar.com/)
-
-### Tech
-- [Flow blockchain built for digital assets](https://www.onflow.org/)
-
-### Tools
-- [MEW - MyEtherWallet](https://www.myetherwallet.com/)
