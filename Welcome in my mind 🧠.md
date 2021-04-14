@@ -70,32 +70,3 @@ This is the nonconformity I'm searching for. You've just entered a garden in per
 😘
 
 <iframe src="https://skilled-composer-245.ck.page/15be033a30" style="width:100%; border:none; height: 600px; margin: -3em 0">
-
-# Table of contents
-
-* [Welcome in my mind 🧠](Welcome%20in%20my%20mind%20%F0%9F%A7%A0.md)
-* [Architecture](Architecture.md)
-  * [Bridges](Bridges.md)
-* [Books](Books.md)
-  * [Collecting old books](Collecting%20old%20books.md)
-* [Digital garden](Digital%20garden.md)
-* [Electronics](Electronics.md)
-  * [Nixie tubes](Nixie%20tubes.md)
-  * [Wiring audio cables](Wiring%20audio%20cables.md)
-* [Hardware](Hardware.md)
-  * [Rapsberry Pi](Raspberry%20Pi.md)
-* [Live music](Live%20music.md)
-  * [Places in north France](Places%20in%20the%20north%20of%20France.md)
-* [Music theory](Music%20theory.md)
-  * [Chords progressions dictionary](Chords%20progressions.md)
-* [Programming languages](Programming%20languages.md)
-  * [Create a programming language](Create%20a%20programming%20language.md)
-* [Scuba diving](Scuba%20diving.md)
-  * [Breathing gas mixtures : how divers achieve to go deeper.](Gas%20blending.md)
-  * [Making underwater videos](Making%20underwater%20videos.md)
-* [Third places](Third%20places.md)
-  * [Inspiration places](Places.md)
-* [Video](Video.md)
-  * [Make great YouTube videos](Make%20great%20videos.md)
-  * [Premiere Pro](Premiere%20Pro.md)
-* [Virtual reality](Virtual%20reality.md)

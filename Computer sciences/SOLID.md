@@ -16,4 +16,5 @@ The 5 principles are :
 
 Going further :
 - [SOLID - Wikipedia](https://en.wikipedia.org/wiki/SOLID)
-- [SOLID & Ruby in 5 short exxamples](https://medium.com/rubycademy/solid-ruby-in-5-short-examples-353ea22f9b05)
+- [SOLID & Ruby in 5 short examples](https://medium.com/rubycademy/solid-ruby-in-5-short-examples-353ea22f9b05)
+- [SOLID Design principle in Ruby](https://www.honeybadger.io/blog/ruby-solid-design-principles/)

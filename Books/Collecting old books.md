@@ -1,3 +1,10 @@
+---
+alias: "old books"
+tags: 
+- "#books"
+- "#art "
+---
+
 ## How I started collecting old books
 
 I started collecting old books in my early 20's. The story behind how I started can seems a bit mystic : I met a crazy old guy in the street of Paris at night in front an old book shop who transmit me his passion. I was watching at the books that seemed to be so old through a library window and then...

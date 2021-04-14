@@ -9,7 +9,9 @@ Scuba diving is by far my favorite sport. It pushes myself out of my comfort zon
 	- [Hyperoxic trimix](Hyperoxic%20trimix.md)
 	- [Hypoxic trimix](Hypoxic%20trimix.md)
 	- [Normoxic trimix](Normoxic%20trimix.md)
+	- [Partial pressure](Partial%20pressure.md)
 - Sickness
 	- [Decompression sickness](Decompression%20sickness.md)
+	- [Hyperoxia](Hyperoxia.md)
 	- [Nitrogen narcosis](Nitrogen%20narcosis.md)
 - [Making underwater videos](Making%20underwater%20videos.md)

@@ -17,6 +17,9 @@ Here's link curation and some notes.
 - [Stabilize shaky footages](https://www.youtube.com/watch?v=_ta3-imPXTc)
 - [Create smooth slow motion](https://www.youtube.com/watch?v=zkLXkmMWKA8)
 - [Clone yourself using the crop effect](https://www.youtube.com/watch?v=djFymNOGMA4)
+- [How to create split screen side by side](https://www.youtube.com/watch?v=h553RFrWL2w)
+- [Multi camera editing](https://www.youtube.com/watch?v=f9dY4wO-4Q8)
+- [Sync audio and video faster](https://www.youtube.com/watch?v=DbICpqO48ns)
 
 ## Effects
 ### Colors

@@ -52,3 +52,6 @@ I also like the way people create their own website and tools for this. Such as 
 
 Obviously, finding the perfect tool is very difficult, but this isn't the point I think. The point is to write things with a process that fit your need, your style and what you want to share (or not, digital garden are not synonymous of sharing to the world). 
 
+## Links 
+- [Building a Second Brain - Maggie Appleton](https://maggieappleton.com/basb)
+

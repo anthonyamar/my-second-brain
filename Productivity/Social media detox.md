@@ -53,11 +53,48 @@ In addition to that, I used BlockApps to force shape my social media consumption
 
 Even if this seems a big change, I was still hooked each time I got my eyes on theses. The real problem was the feed. I figured out that as long as I would have posts in my feed, I would be hooked scrolling. So how to get rid of the feed? 
 
-==Unfollow every friends and unlike every page==. Brutal but so efficient. 
+### Unfollow every friends and unlike every page
+Brutal but so efficient. 
 
-To achieve this on Facebook, I used the method and scripts described in [this Quora thread](https://www.quora.com/How-do-I-unfollow-everyone-on-Facebook-at-once). I used the same method on LinkedIn, [using this script.](https://webapps.stackexchange.com/questions/92383/how-can-i-unfollow-all-my-contacts-on-linkedin-at-once) 
 
-Results were far better than I thought. On Facebook, it made the entire feed bug, almost the same on LinkedIn. I don't have posts, nor ads anymore, a better reach, still the ability to use the features like anyone. Even better : no more endless scrolling and time losses. I won over Facebook and LinkedIn. 
+To achieve this on Facebook, I used the method and scripts. 
+**For Facebook :**
+1. Go to News Feed Preferences -> Unfollow on Facebook
+2. Scroll until you don't have new page/people/groups to unfollow
+3. Open the JavaScript console (developer tools -> Console)
+4. Copy/paste the following script :
+
+```javascript
+var a = document.getElementsByClassName("_5u3n");
+var x = 0
+var time = 300;
+function amol(){
+	a[x].click();
+	if(x++ < a.length) {
+		setTimeout(amol, time);
+	}
+}
+```
+
+**For LinkedIn :**
+1. Go to the page [feed/following](https://www.linkedin.com/feed/following/)
+2. Scroll until you don't have new company/people/groups to unfollow
+3. Open the JavaScript console (developer tools -> Console)
+4. Copy/paste the following script :
+
+```javascript
+var buttons = $("button"),
+  interval = setInterval(function(){
+  var btn = $('.is-following');
+  btn.click();
+  if (buttons.length === 0) {
+	clearInterval(interval);
+  }
+  window.scrollTo(0,document.body.scrollHeight);
+}, 1000);
+```
+
+Results were far better than I thought. On Facebook, it made the entire feed bug, almost the same on LinkedIn. I don't have posts, nor ads anymore, a significantely better reach and still the ability to use the features like I did before. Even better : no more endless scrolling and time losses. I won over Facebook and LinkedIn. 💪
 
 ![](facebook_empty_feed.png)
 
