@@ -11,7 +11,7 @@ What to watch on audio interface :
 - Alimentation source (external or USB powered)
 - The [preamp](Preamp.md) quality using the things to whatch on these pieces
 - Number of line and Hi-Z channels for using line instruments in direct such as guitar i.e.
-- Embedded processors like [DSP](DSP.md) or FPGA
+- Embedded processors like [DSP (Digital Signal Processor)](DSP%20(Digital%20Signal%20Processor).md) or FPGA
 
 References :
 

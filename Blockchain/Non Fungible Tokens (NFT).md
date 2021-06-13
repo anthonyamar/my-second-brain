@@ -14,7 +14,7 @@ NFT is solving some of the toughest problems for art in the digital era which ar
 
 The non-fungible aspect is what make NFT so interesting, in opposition to fiat cash. Fiat cash and cryptocurrencies are fungible as they're totaly interchangeable : 5€ bill is interchangeable with any other 5€ bill, just like 1 BTC is interchangeable for 1 BTC. 
 
-The act of creating an NFT is call "Mint". To tokenize an asset you need to bring the file to a minting platform like [OpenSea](https://opensea.io/), [Rarible](https://rarible.com/) or Mintbase. They're all working on Ethereum, so you need to have an Ethereum wallet to record the file. This will cost some ETH, so the price you pay for minting a piece is highly fluctuable. 
+The act of creating an NFT is call "Mint". To tokenize an asset you need to bring the file to a minting platform like [OpenSea](https://opensea.io/), [Rarible](https://rarible.com/) or [Mintbase](https://mintbase.io/). They're all working on Ethereum, and you need to have a specific ERC721 or ERC1155 [wallet](Wallets.md) to record the file. This will cost some ETH, so the price you pay for minting a piece is highly fluctuable. 
 
 ## Usages
 From : [Complete guide to NFTs](https://blockonomi.com/nfts-collecting-creating-guide/)
@@ -54,3 +54,4 @@ From : [Complete guide to NFTs](https://blockonomi.com/nfts-collecting-creating-
 
 ### Tools
 - [MEW - MyEtherWallet](https://www.myetherwallet.com/)
+- [Trust Wallet for NFTs](https://trustwallet.com/collectibles-wallet/)

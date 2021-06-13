@@ -10,7 +10,7 @@ Deeper you go, higher is the pressure, and more your body is compressed. So wher
 
 Because the regulator is giving you gas at the ambient pressure, when you're -30 m deep, you're breathing air at 4 ATM. That means you're breathing 4 times more nitrogen and oxygen in your lungs than you were at the surface. Normally, nitrogen is a neutral gas at 1 ATM, it doesn't transfer to the tissue. But, here at -30 m, we're breathing 4 times more nitrogen, so the gas is forced to move to the tissue and then dissolve in our blood.
 
-If we're exposed to too much nitrogen, during a too long period, we start to have the [nitrogen narcosis](Nitrogen%20narcosis.md)nitrogen narcosis, which cause at first, the feel of drunkenness.
+If we're exposed to too much nitrogen, during a too long period, we start to have the [nitrogen narcosis](Nitrogen%20narcosis.md), which cause at first, the feel of drunkenness.
 
 But the biggest problem come when we're start to ascend. The pressure decrease causing the increase of volume, and here, the nitrogen that were dissolved in our blood because of pressure is forming bubbles that ascend our blood system \(just like what we're experiencing when opening a soda bottle\) in their turn. This is what cause the decompression sickness : the bubble that are ascending can go to the brain and cause a stroke \(which can lead to death 😱\).
 

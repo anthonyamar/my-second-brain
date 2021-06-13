@@ -6,7 +6,7 @@ tags:
 - "#evergreen/list"
 ---
 
-The Raspberry Pi is a tiny computer running on [ARM](ARM.md) processors that cost around $40 and can run full functionnal version of differents Linux OS. It is also called a "prototyping board". It has wide use in eletronics because it allow user to interact with electronic components by the GPIOs in/out on the board.
+The Raspberry Pi is a tiny computer running on [ARM (Advanced RISC Machines)](ARM%20(Advanced%20RISC%20Machines).md) processors that cost around $40 and can run full functionnal version of differents Linux OS. It is also called a "prototyping board". It has wide use in eletronics because it allow user to interact with electronic components by the GPIOs in/out on the board.
 
 In proper terms, RPi is an embedded computer, also called an SBC for Single Board Computer. What can be disturbing at first is that its processor is a hybrid between a microprocessor and a microcontroller, called a SoC, for System on Chip, using this so-called ARM architecture. 
 

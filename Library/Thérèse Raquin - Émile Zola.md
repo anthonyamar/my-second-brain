@@ -8,6 +8,7 @@ tags:
   - "books/physical"
 ---
 
+## Review
 Thérèse Raquin is the name of Emile Zola's novel, released in 1867, entitled with the main character name. 
 
 I never read any other Zola's book yet, but this one marked me. I decided to read this book because it was the slimest book from a collection of great french authors I herited from my aunt 😅. I was also curious about Zola's writing style of course, mostly because I always heard about [Germinal](Germinal%20-%20Emile%20Zola.md) being one of the most important (and difficult) book in the french litterature from the XIXth century. 

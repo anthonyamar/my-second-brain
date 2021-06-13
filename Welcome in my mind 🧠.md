@@ -4,7 +4,7 @@ I'm **Anthony**, a `Date.today.year - 1993` years old French guy. I have tons of
 
 I have an atypical, mostly passion driven, path. At the age of ten, I started playing music, which gave me the will of working as a musician very early. After succeeding \(in my opinion, it was a kind of success :-\)\) being a professional musician, I found myself in entrepreneurship, then, in programming and teaching. As an eternal undecided, I just did not choose between these passions and combine them all.
 
-Now I'm leading a [music tech company](https://www.studiomatic.co/en/), spending my time creating -mostly tech- products that can empower musicians. In my spare time, I'm collecting very [old books](Collecting%20old%20books.md), do [scuba diving](Scuba%20diving.md), then more recently, create a variety of online content while also learning real estate and trading.
+Now I'm leading a [music tech company](https://www.studiomatic.co/en/), spending my time creating -mostly tech- products that can empower musicians. In my spare time, I'm collecting very [old books](Collecting%20old%20books.md), do [scuba diving](Scuba%20diving.md), then more recently, create a variety of online content while also learning [investment](My%20investment%20strategy.md).
 
 I consider myself as an internet offspring. I had the chance to access to computers very early in my life and I think it had a big influence on who I am right now. Like a lot of us, internet citizens, what I value the most is learning. Whatever the subject, whatever it takes, whatever it cost, money or time, what I like most is learning. That's, I think, the biggest reason of why I'm starting this "Limitless Exploration" project.
 

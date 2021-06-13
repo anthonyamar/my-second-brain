@@ -12,7 +12,7 @@ I coded Books and Binders to this specific purpose at first, a simple CRUD for a
 - Total spended on books
 - Total weight
 
-I also needed to keep notes on my [rare books](Collecting%20old%20books.md), espcialy on prices. It took me a day to code a working MVP using #Ruby on #Rails, #PostgreSQL, #React, #HTML and #CSS. I spend two additional days to list each book at hand, on my computer. 
+I also needed to keep notes on my [rare books](Collecting%20old%20books.md), espcialy on prices. It took me a day to code a working [MVP](MVP%20(Minimum%20Viable%20Product).md) using #Ruby on #Rails, #PostgreSQL, #React, #HTML and #CSS. I spend two additional days to list each book at hand, on my computer. 
 
 I'm happy with the result. Now, each time I buy a new book, I instantly add it to my list, and I can refer to it now, make new stats or new features as I need. 
 
@@ -20,7 +20,7 @@ The last features :
 - Embeddable public page for #Obsidian.
 - Export entries to Obisidian flavoured markdown notes with auto tag. 
 
-The result of theses two features can be seens on [-My library](-My%20library.md)  (take some seconds to load, free #Heroku dynos atm 😅) and all the files in the folder "Library". 
+The result of theses two features can be seens on [~ My library - MoC](~%20My%20library%20-%20MoC.md)  (take some seconds to load, free #Heroku dynos atm 😅) and all the files in the folder "Library". 
 
 By adding theses new notes, my Obsidian vault welcomed more than 250 new notes and instantly connected it to my already existing notes. I'm now managing the most of my book right into Obsidian. 
 

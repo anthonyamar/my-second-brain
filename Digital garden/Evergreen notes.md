@@ -7,7 +7,7 @@ tags:
 ## What are evergreen notes? 
 Seems to be first described by [Andy Matuschak](https://andymatuschak.org/), Evergreen notes are said to be ==fundamental unit of knowledge work==.
 
-The concept draws its origins from the #zettelkasten method and is a way to achieve a better note-taking practice and leverage more from your notes than the typical anarchic way of note taking (hear: accumulating notes with no purpose, called *"transient notes"*). 
+The concept draws its origins from the [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md) method and is a way to achieve a better note-taking practice and leverage more from your notes than the typical anarchic way of note taking (hear: accumulating notes with no purpose, called *"transient notes"*). 
 
 ==Evergreen notes are written and organized to evolve over time==, hence the name *"evergreen"* and follow design principles (see [Software design principles applied to digital gardening](Software%20design%20principles%20applied%20to%20digital%20gardening.md) i.e):
 - **Atomicity**: notes should be atomic to allow reuse

@@ -6,9 +6,9 @@ Not the kind of computer with wich I'm writing this plot obviously, but a diving
 
 It's like a watch that you put on your wrist and it is used to display very useful informations during your such as the depth, the time, the temperature, your security curve and the time at current depth without making decompressions stops, your ascent rate, your remaining time at the decompression and other features that make you safer underwater. 
 
-These are mandatory once you start exceeding 10 to 15 dives or start to pass your FFESM level 2 or PADI Advanced, because you start to go deeper and experience your first decompression stops. 
+These are mandatory once you start exceeding 10 to 15 dives or start to pass your FFESSM level 2 or PADI Advanced, because you start to go deeper and experience your first decompression stops. 
 
-The cheapest diving computer start around 70€ but these can go up to a thousand euros for the most sophisticated ones. 
+The cheapest diving computers start around 70€ but these can go up to a thousand euros for the most sophisticated ones. 
 ![A diver with his computer](pi_dive_computer_dive.jpg)
 
 ## Entering the Pi-Dive, a DIY diving computer. 

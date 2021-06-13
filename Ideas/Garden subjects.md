@@ -42,7 +42,7 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 - How to pitch
 
 ### Artificial Intelligence
-- How I created a Tinder bot using artificial intelligence
+- How I created a Tinder bot using artificial intelligence ✅
 
 ### Music studios
 - Soundproofing ✅

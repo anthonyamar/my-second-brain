@@ -1,0 +1,3 @@
+Using the Golden Circle framework, made famous by Simon Sinek in his TED talks and book [Start With Why: How Great Leaders Inspire Everyone To Take Action](Start%20With%20Why%20-%20How%20Great%20Leaders%20Inspire%20Everyone%20To%20Take%20Action%20-%20Simon%20Sinek.md) on litterature notes and on connections help stating on the relevance of a specific idea. 
+
+By asking these "Why?", "How?", "What?" questions, we force ourself to think, clarify and distinguish ideas from each other.

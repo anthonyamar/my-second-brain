@@ -8,7 +8,7 @@ In his [2020 report](https://www.snowball.xyz/p/-le-snowball-report-2020), Yoann
 
 Some key points :
 - [Freemium](Freemium.md) business model
-- [Substack](https://substack.com/home) is the go to plateform for newsletter MVP. They take 10% fees in addition to those of [Stripe](https://stripe.com)
+- [Substack](https://substack.com/home) is the go to plateform for newsletter [MVP](MVP%20(Minimum%20Viable%20Product).md). They take 10% fees in addition to those of [Stripe](https://stripe.com)
 - I.e, after removing the fees and the share of French taxes for a 6€/month subscription, the writter get 3€43/month, i.e. 57,17%. of the total amount. 
 - Snowball have 19,65% of paid subscriber which is 2 to 3 times better than the average percentage of** user to customer conversion rate** for freemium, with a 31,6% **MoM growth**. 
 - His **churn rate**, at 2,31%, is about 50% inferior to the average 5-7%. 

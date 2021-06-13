@@ -1,6 +1,6 @@
 I really like having new #ideas, talk about it, being challenged by people or challenge friends on their ideas. As soon as I remember, I always had a ton of ideas at any moment of the day, mostly on evenings or at night. I can get really obsesed by some of them sometimes and like, even until staying awake all night long to work on it. 
 
-Until I discovered [digital gardens](Digital%20garden.md), I wasn't very focus on keeping ideas somewhere. By reading here and there about #workflow, #zettelkasten, #second-brain and getting inspirations from people who're really into these, I told myself that I should really keep more about my ideas. 
+Until I discovered [digital gardens](Digital%20garden.md), I wasn't very focus on keeping ideas somewhere. By reading here and there about #workflow, [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md), #second-brain and getting inspirations from people who're really into these, I told myself that I should really keep more about my ideas. 
 
 So here it is! A folder entirely dedicated to idea. 💡
 
@@ -27,12 +27,12 @@ Just like this :
 
 ## Idea workflow
 
-I'm mostly using GitJournal to brain drop my ideas on my smartphone. It sync a Github repository that is also my Obsidian vault. When I'm in a situation I can't or don't want to use my phone, I'm just using a pencil and a notebook. More on [my tools](My%20tools.md) here!
+I'm mostly using GitJournal to brain drop my ideas on my smartphone. It sync a Github repository that is also my Obsidian vault. When I'm in a situation I can't or don't want to use my phone, I'm just using a pencil and a notebook. More on [my tools](My%20productivity%20tools.md) here!
 
 After writing down things, I'm reviewing it on my computer and write it here, on my garden. I'm classifying ideas in two different folders :
 - ==Graveyard== where I keep track of my dead ideas. The ones I tried but didn't worked for any reasons and from which I learned. 🕯 
 - ==Incubator== where I put my still green ideas. I never tried it (and so can't put it in my Graveyard 😄) and for some, maybe never will. But I still want to have them. 🌱
 
-I use hashtags to categorize each ideas, according to the #zettelkasten method, and then let Obsidian do the magic to connect them together using the graph method. 
+I use hashtags to categorize each ideas, according to the [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md) method, and then let Obsidian do the magic to connect them together using the graph method. 
 
 Bi directionnal links help me to go back and forth between ideas and concepts and nurture my creativity. Ideas so become more consistant and precise than ever. 

@@ -24,7 +24,7 @@ The first thing to do, in my opinion, is to figured out how much time your spend
 
 For me, it was something very simple : once I was launching the app, wether it was on mobile or desktop, I started to scroll right away and getting hooked by videos, posts and comments. I could force me to stop, I didn't succeed to, so I could lose like an hour or two just scrolling. 
 
-To measure the time I spent on [my apps](My%20tools.md), I used [BlockApps](https://play.google.com/store/apps/details?id=com.wverlaek.block&hl=en_US&gl=US) on Android. Even if you just install it for the first time, it will take you entire usage history to show you how much time you spent for each apps. For me, Facebook was on top with a big advance, followed by Messenger, Phone, Messages, LinkedIn, Instagram, Medium and other apps... 
+To measure the time I spent on [my apps](My%20productivity%20tools.md), I used [BlockApps](https://play.google.com/store/apps/details?id=com.wverlaek.block&hl=en_US&gl=US) on Android. Even if you just install it for the first time, it will take you entire usage history to show you how much time you spent for each apps. For me, Facebook was on top with a big advance, followed by Messenger, Phone, Messages, LinkedIn, Instagram, Medium and other apps... 
 
 That wasn't the first time I tried to calm down on social media, (talking about addiction about social media isn't a language abuse for me) and everytime I tried, my new habits stayed not more than 2 month. 
 
