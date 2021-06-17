@@ -27,5 +27,5 @@ I like how [Maggie Appleton](https://maggieappleton.com/) illustrated it (from h
 - [Evergreen notes - Andy Matuschak](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C?stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)
 - [Growing the Evergreens - Maggie Appleton](https://maggieappleton.com/evergreens)
 - [Building a Second Brain - Maggie Appleton](https://maggieappleton.com/basb)
-- [How to take smart notes - Sönke Ahrens (book)](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/ref=pd_sim_5?pd_rd_w=tk4p0&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=B0A9G02T84CQFMX0WKES&pd_rd_r=2d40ca1b-fe62-49d9-ba2b-340e99f66258&pd_rd_wg=0ASXA&pd_rd_i=B06WVYW33Y&psc=1)
+- [How To Take Smart Notes - Sönke Ahrens (book)](How%20To%20Take%20Smart%20Notes%20-%20Sönke%20Ahrens.md)
 - [Extend Your Mind - Tiago Forte (book)](https://www.amazon.com/gp/product/B07FLQHLTK/ref=as_li_tl?ie=UTF8&tag=fortelabs07-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FLQHLTK&linkId=fa325112abe9ec6c0daf1bab6dee7f0c)

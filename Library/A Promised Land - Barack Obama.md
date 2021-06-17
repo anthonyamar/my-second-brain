@@ -26,7 +26,7 @@ It's a big book with 700 pages of small typo reading (in its English version). I
 
 The book is obviously very well written. As a non-native english, it was a bit harder for me to read it, because of the very varied vocabulary and the U.S. slang, but I still enjoyed it a lot. 
 
-Obama has a very dynamic writting style. He easily oscillates between several kind of emotions and writing tones, from humour, to sadness, passing by the serious tone, nostalgia, yearning... This made the book easier and more interesting to read. I didn't feel lot of length that would urge me to skip some pages or anything like that.
+Obama has a very dynamic writing style. He easily oscillates between several kind of emotions and writing tones, from humour, to sadness, passing by the serious tone, nostalgia, yearning... This made the book easier and more interesting to read. I didn't feel lot of length that would urge me to skip some pages or anything like that.
 
 If I had to take one thing out of this book, is that it made him appear as a true non-perfect human, with his strengths and weakness, his success and his failures and that's what I really like in this book. We all tend to put on a pedastal people that are high ranked in the society and forgot that they also are humans and to know that even the president of the most powerful country in the world behave like any other human on the planet and is not really different than average people is very refreshing. 
 

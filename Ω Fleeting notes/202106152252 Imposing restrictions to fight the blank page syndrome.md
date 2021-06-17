@@ -1,0 +1,3 @@
+The blank page syndrome is experience by any person involve in a creative process. By setting up restrictions, we can force ourself to find new way of starting and finding creative solutions. 
+
+In music, we could impose using only certain scale, rythm pattern, structure or any combination of these. (cf. [Making Music - 74 Creative Strategies For Electronic Music Producers](Making%20Music%20-%2074%20Creative%20Strategies%20For%20Electronic%20Music%20Producers%20-%20Dennis%20De%20Santis.md))

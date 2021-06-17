@@ -7,7 +7,7 @@ So here it is! A folder entirely dedicated to idea. 💡
 ## Why keeping track of ideas?
 I want to keep track of my ideas to help me create new connexions between subjects and speed up my ability to retrieve a specific idea mostly. 
 
-I also think that, by forcing me writting and formating them so it can be read would help me to have even more ideas and create more consistants forms. By this, I'm digging deeper in the treated subject as well. 
+I also think that, by forcing me writing and formating them so it can be read would help me to have even more ideas and create more consistants forms. By this, I'm digging deeper in the treated subject as well. 
 
 It also can help other and give inspiration to some people working on specifics subject. As for me, ideas have almost no value, I'm totally ok to share it with people. I think that execution is way more valuable than having the idea itself.
 

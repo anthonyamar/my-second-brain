@@ -18,7 +18,7 @@ Here's the specs :
 - Fleeting notes has to be reviewed everyday. This is an habit to take in order to have a performant zettelkasten system. By reviewed, I mean tagged, processed, reformulated and connected to [Litterature note](Litterature%20note%20to%20quote%20and%20reference%20content.md) in order to create [Permanent note](Permanent%20notes%20to%20link%20and%20develop.md).
 - Fleeting notes must all be formatted the same to be reviewed easier : [Software design principles applied to digital gardening](Software%20design%20principles%20applied%20to%20digital%20gardening.md). It's common to add a timestamp at title note's beginning in order to store it chronologically, i.e., 202105122231 (YYYYMMDDhhmm).
 
-Taking fleeting notes can be done using various mediums. Niklas Luhmann was writting his on both sides of a paper card.  It doesn't need to be only on paper though. We can take fleeting notes using note taking apps, voice recording, bookmarks, emails and paper. 
+Taking fleeting notes can be done using various mediums. Niklas Luhmann was writing his on both sides of a paper card.  It doesn't need to be only on paper though. We can take fleeting notes using note taking apps, voice recording, bookmarks, emails and paper. 
 
 The more different medium you have, the more consistency you'll need to process everything with the least restraint possible. 
 

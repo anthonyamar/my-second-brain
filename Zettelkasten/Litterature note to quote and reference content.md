@@ -15,5 +15,5 @@ Litterature notes must be reformulated rather than strictly quoted in order to b
 
 It will be cumulated and connected with [Fleeting notes](Fleeting%20notes%20to%20capture%20thoughts.md) in order to create [Permanent notes](Permanent%20notes%20to%20link%20and%20develop.md)
 
-As it's litterature and content, it's a great thing to consider quoting everytime the source. It will help better referencing sources when writting a definitive paper.
+As it's litterature and content, it's a great thing to consider quoting everytime the source. It will help better referencing sources when writing a definitive paper.
 

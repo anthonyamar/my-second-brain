@@ -35,7 +35,10 @@ code {
 }
 
 blockquote {
-  border-left-color: var(--text-accent-hover) !important;
+  border: none !important;
+  border-left: 5px solid var(--text-accent-hover) !important;
+  margin-inline-start: 0 !important;
+  margin-inline-end: 0 !important;
 }
 
 ul, ul ul, ol ul {
@@ -125,6 +128,11 @@ a:hover {
   /*	-webkit-text-fill-color: var(--text-normal);*/
   text-decoration: none;
   transition: all 350ms ease;
+}
+
+span.obsidian-search-match-highlight {
+  background-color: var(--interactive-accent-hover) !important;
+  color: var(--text-normal) !important;
 }
 
 /* HIGHLIGHTS */
