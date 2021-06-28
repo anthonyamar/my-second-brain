@@ -274,3 +274,7 @@ mark {
 .published-container .site-body-left-column-site-logo {
   width: 25% !important;
 }
+
+.site-body-left-column-site-name {
+  text-align: center;
+}

@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Main events in computer history
-Obsviously, this subject could fit into encyclopedia. I don't pretend to tell you the history of computers, but here's some events and facts I like to keep notes on. 
+Obsviously, this subject could fit into encyclopediae. I don't pretend to tell you the history of computers, but here are some events and facts I like to keep notes on. 
 
 Notable date :
 - **1837** : The first general-purpose and [Turing complete](Create%20a%20programming%20language.md#Turing%20completeness) computer is described by Charles Babbage and it's called the [Analytical Engine](https://en.wikipedia.org/wiki/Analytical_Engine). Unfortunately, never built.  
