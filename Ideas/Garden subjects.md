@@ -51,10 +51,10 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 - Using IoT to reinvent artists experience
 
 ### [Digital garden](Digital%20garden.md)
-- The blogs and digital gardens that inspire me
+- The blogs and digital gardens that inspire me ✅
 
 ### Productivity
-- The Zettelkasten method 
+- The Zettelkasten method ✅
 - Using the Zettelkasten method for music with Obsidian and computer music gear ✅
 
 ### Projects
@@ -62,4 +62,4 @@ Here's the subjects I want to grow on in this [digital garden](Digital%20garden.
 
 ### [Books](Books.md)
 - Books that changed my life ✅
-- Anti library
+- Anti library ✅

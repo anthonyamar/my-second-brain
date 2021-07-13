@@ -19,5 +19,4 @@ I like how he describe the process and the transformation of ideas into valuable
 3. [[Permanent notes to link and develop]]
 4. Adding permanent notes to the Slipbox
 
-
 There's more steps after this that are here to shape and arrange newly created ideas to create a well standing academic paper or book. These four are for me the real game changer and the principle of zettelkasten

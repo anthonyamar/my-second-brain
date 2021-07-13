@@ -1,0 +1,4 @@
+The 15 rules of [Analytical reading](Analytical%20reading.md) apply to practical "non-fiction" books. For other books, such as novels, we still find the first four questions for [Inspectional reading](Inspectional%20reading.md) and principle of the art of reading as a backbone and just adapt/change/remove some rules of analytical reading depending on the context.
+
+---
+*From: [How To Read A Book, The Classic Guide To Intelligent Reading - Mortimer J. Adler, Charles Van Doren](How%20To%20Read%20A%20Book,%20The%20Classic%20Guide%20To%20Intelligent%20Reading%20-%20Mortimer%20J.%20Adler,%20Charles%20Van%20Doren.md)*

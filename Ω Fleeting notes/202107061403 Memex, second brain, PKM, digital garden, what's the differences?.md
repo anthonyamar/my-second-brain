@@ -1,0 +1,1 @@
+What are the differences between [Memex](Memex.md), #second-brain, PKM and [Digital garden](Digital%20garden.md)? Is this a matter of publicness? Format? Usage? Are they the same word and synonyms?

@@ -19,7 +19,7 @@ In her article [A Brief History & Ethos of the Digital Garden](https://maggieapp
 
 It's, I think, difficult to get out a formal definition of what is or what is not a digital gardens, as it seems to have as much definition as gardening people. 
 
-I'm not a digital garden historian, but watching it with a new eye, it seems to be a crossbreeding of a blog, a Wiki and a (personal) [knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) system, with influences of [zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) note taking method. 
+I'm not a digital garden historian, but watching it with a new eye, it seems to be a crossbreeding of a blog, a Wiki and a (personal) [knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) system, with influences of [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md) note-taking method. 
 
 I love how Maggie Appleton is placing digital gardens among other kind of text based expression systems, ==between the chaos streams and the cultivated performance==.
 
