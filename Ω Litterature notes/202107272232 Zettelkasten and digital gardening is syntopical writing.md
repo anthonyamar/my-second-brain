@@ -1,0 +1,3 @@
+Just like there's [Syntopical reading](Syntopical%20reading.md), does [digital gardening](Digital%20garden.md), especialy [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md), can be said to be syntopical writing? I think yes, because of the transversality and the connexion mode of notes. See:
+- [202106131132 Litterature notes helps comparing different authors ideas](202106131132%20Litterature%20notes%20helps%20comparing%20different%20authors%20ideas.md)
+- [202106201723 Learning shouldn't be linear but graph oriented](202106201723%20Learning%20shouldn't%20be%20linear%20but%20graph%20oriented.md)

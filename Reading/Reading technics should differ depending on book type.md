@@ -4,17 +4,20 @@ The relation between a book and its reader is the same as the one between a teac
 
 Before start reading a book, we need to know what kind of book it is to adjust the angle with which we will tackle it. Is it a novel? A study? A manual? What's the subject? Carefuly reading the title can help a lot on this, like it suggested in [Inspectional reading](Inspectional%20reading.md).
 
-For non-fiction, we might read fast by abstracting all the lyricism around specific concepts to then read slower and take pauses to understand unfamiliar concepts and ideas as well as taking some notes. The reading profile through time would be very winding. It also not be very rare to come back to the book later to just search for a specific byte of information. 
-
-For novels, we might read at constant speed in order to keep the focus and the history thread. The reading focus will be more on the syntax, the vocabulary, and the emotions that the author wants to give. As novels are very descriptive, I'll not be choked to learn that the brain is calling the visual cortex way more than the part of the brain that connects concepts and ideas, maybe more used for non-fiction book. 
-
-History books will highlight facts and events on specific dates that happened in the past, they're *“chronotopics”*. 
-
-Sciences book will mostly search for truth rather than describing things that happened, just like philosophy. They both search for truth, but not the same way, nor will answer questions the with the same arguments. Science is more about observations on results brought by experiences and empircal discoveries. Philosophical books take more on reflexions and common sense to answer the questions, in a more "theorical" and abstract way. 
-
 We should also discerne whether a book is practical or theorical. Practical books are the one from which we can take actions and that could provide takeaways. Theorical books are for the pure sake of knowledge. They're mostly useful to reinforce our thoughts and ideas on specific thoeries. 
 
-Depending on the type, the [Note-taking process](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md) will also be different : the attention to detail might not be the same for non-fiction or novels, as well as the things selected or the ratio [Litterature note](Litterature%20note%20to%20quote%20and%20reference%20content.md) / [Fleeting note](Fleeting%20notes%20to%20capture%20thoughts.md)
+For non-fiction, we might read fast by abstracting all the lyricism around specific concepts to then read slower and take pauses to understand unfamiliar concepts and ideas as well as taking some notes. The reading profile through time would be very winding. It also not be very rare to come back to the book later to just search for a specific byte of information. 
+
+## Reading different type of books
+- [Reading philosophy](Reading%20philosophy.md)
+- [Reading science and mathematics](Reading%20science%20and%20mathematics.md)
+- [Reading digests](Reading%20digests.md)
+- [Reading news](Reading%20news.md)
+- [Reading biographies](Reading%20biographies.md)
+- [Reading history](Reading%20history.md)
+- [Reading imaginary](Reading%20imaginary.md)
+
+Depending on the type, the [Note-taking process](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md) will also be different: the attention to detail might not be the same for non-fiction or novels, as well as the things selected or the ratio [Litterature note](Litterature%20note%20to%20quote%20and%20reference%20content.md) / [Fleeting note](Fleeting%20notes%20to%20capture%20thoughts.md)
 
 Contrary to what [Speed reading](Speed%20reading.md) gourous could say, no technics can rule all the different mental models we need to read a book. 
 

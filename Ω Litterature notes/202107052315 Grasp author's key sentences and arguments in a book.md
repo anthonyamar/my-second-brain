@@ -4,7 +4,7 @@ Propositions, in this meaning, are answers to questions. They're declarative sen
 
 We should be careful of compound sentences when trying to understand the author's message. These are multiple sentences separated by coordination words or ponctuation such as “and” or commas. These should be carefully analysed to enlight the sense of the sentence. 
 
-Finding the arguments is discerning strings of axioms: a sequence of propositions regarded as being established, accepted, or self-evidently true (tautology) and that gives reason to each other to state something. Not all the paragraphs are arguments and sometimes (in bad books), they're not clear at all.
+Finding the arguments is discerning strings of [Axioms](Axioms.md): a sequence of propositions regarded as being established, accepted, or self-evidently true (tautology) and that gives reason to each other to state something. Not all the paragraphs are arguments and sometimes (in bad books), they're not clear at all.
 
 When the arguments aren't clearly expressed, we need to construct them from axiomatic sentences until we have the sequence that state the proposition and compose the argument.
 
