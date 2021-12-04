@@ -412,7 +412,7 @@ I learned a lot of rock and reggae music when I started the guitar at 10, then s
 - Parker's Mood
 
 ### John Coltrane
-- Giant Steps
+- [Giant Steps](Giant%20Steps%20-%20John%20Coltrane.md)
 - Mr P.C.
 
 ### Louis Armstrong
