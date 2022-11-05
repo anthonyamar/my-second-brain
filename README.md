@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 *You'll have a better browsing experience of this digital garden on the website : https://garden.anthonyamar.fr*
 ## Who I am?
 

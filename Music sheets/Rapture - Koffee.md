@@ -16,12 +16,12 @@ tags:
 The original key is in `Bm`. 
 
 ```
-|Bm Fm |D# G# |
+|Bbm Fm |D#m G# |
 ```
 
 When played at the guitar, it's easier to play using a capo 1, because of the fill and addons, with these chords :
 ```
-|Am Em |D  G  | 
+|Am Em |Dm  G  | 
 ```
 
 ## Lyrics

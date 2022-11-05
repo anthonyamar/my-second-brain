@@ -39,11 +39,11 @@ Here's what seduce me in cultivating a digital garden more than a blog or any ot
 
 Well, it's very easy: use it as you want.
 
-Here's a hint: you can just watch the subjects on the sidebar and start to dig into the ones that sparks your curiosity.
+Here's a hint: you can just watch the subjects on the sidebar and start to dig into the ones that sparks your curiosity. You can also go to the [~ Changelog](~%20Changelog.md) and start by reading what was just changed.
 
 You can agree or disagree with the content, the ideas, the way I'm seeing things or the link and resources I propose, it's ok.
 
-As long as you're enjoying the journey and you learn things, well, you're using it well!
+As long as you're enjoying the journey, and you learn things, well, you're using it well!
 
 Knowledge is something we're building all our life. We can build knowledge alone, but it will never be as good as doing it together. So please, don't hesitate to engage conversation, share your thoughts or just sending love \(even hate :-\)\) by [contacting me](Contact%20me%20%F0%9F%92%8C.md) 💌
 
@@ -55,7 +55,7 @@ When you start collecting things, there's always a sort of "direction" : you're 
 
 Well, digital garden are the same. Where blog, diary or `array_of_content_medium.rand` is like collection, digital garden is like cabinet of curiosity.
 
-I just write about what I like. It can be music, entrepreneurship, values, sciences, [diving](Scuba%20diving.md), sports, tech, programming, social/sexual/love/friends relationships, religion, politics, art, humor, [electronics](Electronics.md), [books](Books.md), nature, animals, philosophy, economy, personal development... well, you get it right? Everything I like.
+I just write about what I like. It can be music, entrepreneurship, values, sciences, [diving](Scuba%20diving.md), sports, tech, programming, social/sexual/love/friends relationships, religion, politics, art, humor, [electronics](Electronics.md), [books](Books.md), nature, animals, #philosophy, #economy, personal development... well, you get it right? Everything I like.
 
 The content can be sometime a big article, another just a one sentence note with two links with no formatting at all...
 

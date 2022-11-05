@@ -1,4 +1,5 @@
 ---
+publish: false
 alias: "title_song"
 tags: 
 - "#music-sheet"

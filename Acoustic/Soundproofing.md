@@ -3,8 +3,6 @@ aliases: ["Acoustic isolation"]
 tags: 
 - "#Studiomatic"
 - "#acoustic"
-title: "TEST TITLE"
-description: "TEST DESCRIPTION"
 ---
 
 Soundproofing is vital when constructing music studios. This the the thing not be neglected at all when thinking about creating a studio for making high volume music. 

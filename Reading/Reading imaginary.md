@@ -15,7 +15,7 @@ There are three groups of rules for imaginary reading: structural, interpretativ
 **Cultural:**
 - Don't criticize until you fully appreciate what the author has tried to make you experience
 
-Some imaginary books have underlying purposes, such as attacks against totalitarianism in [1984 - Georges Orwell](1984%20-%20Georges%20Orwell.md) and [Animal Farm - Georges Orwell](Animal%20Farm%20-%20Georges%20Orwell.md). That's one of the things we should find while reading the book. 
+Some imaginary books have underlying purposes, such as attacks against totalitarianism in [1984 - George Orwell](1984%20-%20George%20Orwell.md) and [Animal Farm - Georges Orwell](Animal%20Farm%20-%20Georges%20Orwell.md). That's one of the things we should find while reading the book. 
 
 ## On reading speed
 

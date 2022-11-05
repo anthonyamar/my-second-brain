@@ -1,4 +1,4 @@
-The concept of morality is well discussed subject accross different philosophers. 
+The concept of morality is well discussed subject accross different philosophers. It is the branch of philosophy that contemplates what is right (proper) and wrong (improper). It explores the nature of morality and examines how peoples should live their lives in relation to others rational being. 
 
 ### According to Nietzsche
 The moral is an invention of the weak to dominate the strongs. For Nietzsche, there's two kind of moral, the weak's one, the the strong's one. 

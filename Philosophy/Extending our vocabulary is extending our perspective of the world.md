@@ -1,0 +1,3 @@
+As words are languages elements that describe existants or [Non existants objects](Non%20existants%20objects.md) and carry different meaning, having an extended vocabulary allows us to describe the world we're living in with much more finesse and granularity.
+
+Opposed to that, by restricting one's vocabulary, we restrict its vision and understanding of the world and the concepts associated. I.e, the Novlang in George's Orwell's [1984](1984%20-%20George%20Orwell.md) book is restricting language in a way that some key concepts disappear. In Novlang, the word bad doesn't exist, it is replaced with "non-good".  

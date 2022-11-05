@@ -4,7 +4,7 @@ When I started practicing [scuba diving](Scuba%20diving.md), I noticed one thing
 
 Not the kind of computer with wich I'm writing this plot obviously, but a diving computer. 😏
 
-It's like a watch that you put on your wrist and it is used to display very useful informations during your such as the depth, the time, the temperature, your security curve and the time at current depth without making decompressions stops, your ascent rate, your remaining time at the decompression and other features that make you safer underwater. 
+It's like a watch that you put on your wrist and it is used to display very useful informations during your dive such as the depth, the time, the temperature, your security curve and the time at current depth without making decompressions stops, your ascent rate, your remaining time at the decompression and other features that make you safer underwater. 
 
 These are mandatory once you start exceeding 10 to 15 dives or start to pass your FFESSM level 2 or PADI Advanced, because you start to go deeper and experience your first decompression stops. 
 
@@ -52,7 +52,7 @@ The combination of the gyroscope, accelerometer, barometric pressure sensor, and
 ![](pi_dive_axis.png)
 
 ### Useless but funny features
-The embeded 8x8 RGB LED matrix could be use to display anything in the water such as emojis, pre-define messages or specific colors flash for safety concerns (like red flashing). Communicate with you dive buddy underwater in a different maner. 😊
+The embeded 8x8 RGB LED matrix could be use to display anything in the water such as emojis, pre-define messages or specific colors flash for safety concerns (like red flashing). Communicate with your dive buddy underwater in a different maner. 😊
 
 ## Difficulties
 Obviously, creating a project like this is not something easy. Here's some of the issues we could face trying to building the Pi-Dive, and ideas on how to get over it. 

@@ -1,0 +1,1 @@
+Ontology is a sub branch of [Metaphysics](Metaphysics.md), that study the relationship to, and the nature of being, becoming, existence and reality. 

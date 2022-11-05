@@ -18,4 +18,4 @@ I'm writing my digital garden with in mind thoses principles:
 - **Open-closed principle**: Even if it's a bit counter intuitive with the principle around evergreen notes, I try to extend more than I modify my notes. It force navigation around concepts more than getting stuck on long articles.
 - **DRY (Don't Repeat Yourself)**: In this note i.e, instead of repeating `n times` the concept around SOLID and Evergreen notes, I'm linking to their own notes so I don't repeat myself. It also improve the maintainability of notes and let me expand the concepts better, without having to edit every notes. 
 
-I'm sure there's a lot of other paralelism that could be made between software design and digital garden design, but digital gardening is above all a matter of personal choices. So it is up to everyone to choose their own design principles, inspired or note, by software design. 
+I'm sure there's a lot of other paralelism that could be made between software design and digital garden design, but digital gardening is above all a matter of personal choices. So it is up to everyone to choose their own design principles, inspired or not, by software design. 

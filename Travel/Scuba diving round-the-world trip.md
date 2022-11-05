@@ -46,7 +46,7 @@ Before trying to get any flight ticket, let's break down some of the planning st
 - Do I go alone or do I find a travel partner?
 
 ### What?
-- What are the [Pre-requesites](Pre-requesites.md)? 
+- What are the pre-requisites? 
 - What equipment do I take with me?
 - What to do in order to make safe trips? Insurance, vaccines?
 - What are the administrative requirements? 

@@ -1,4 +1,5 @@
 ---
+publish: false
 tags:
 - "vocabulary/french"
 - "vocabulary/adjective"

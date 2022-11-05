@@ -19,7 +19,14 @@ According to [How To Read A Book, The Classic Guide To Intelligent Reading - Mor
 
 In other words, adopting habits need practice. There's no other way. We also need to know the rules of the skills we're developing to form strong habit to then, be able to overcome it ([202106131155 Paradigm shifts comes from little steps toward a direction](202106131155%20Paradigm%20shifts%20comes%20from%20little%20steps%20toward%20a%20direction.md)). 
 
+## The need of making habits
 
+Gustave Flaubert said, 
+> Be regular and orderly in your life, so that you may be violent and original in your work
+
+Habits have this ability to substract the mental tiredness you could possibly get from making the task to which you're used to, in order to let you focus on what matter to you. 
+
+Being ascetic and living a life of habits do not necessarily make someone a boring person on all the aspect of his life. Singularity is the other face of a coin, where stack is the habits you had built.
 
 
 

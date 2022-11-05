@@ -1,5 +1,5 @@
 ---
-aliases: ["How To Read A Book - The Classic Guide To Intelligent Reading"] 
+aliases: ["How To Read A Book   The Classic Guide To Intelligent Reading"] 
 tags: 
   - "books/read" 
   - "books/paperback" 
@@ -7,26 +7,31 @@ tags:
   - "books/personal-development"
   - "books/physical"
 ---
+%%id:270%%
+%%start:review%%
+
 ## Review
 A very interesting book that help a lot on how to be more efficient when reading. It shows various level of reading and highlight the fact that reading is an art. And like any other art, it need to practice and can be mastered. 
 
 Finished the 16/07/2021
 
-Just about 10 days after finishing the books, but started to apply the principle when I started it, I can say that my reading abilities are now way better. I can read faster by applying [Selective reading](Selective%20reading.md) and [Speed reading](Speed%20reading.md) as suggested in the book. I especially improved my comprehension of the texts. I now ask better questions and find more easily what I'm searching for in books. As I read faster, using a pen, I also have a better focus, so I forget less things.
+Just about 10 days after finishing the books, but started to apply the principle when I started it, I can say that my reading abilities are now way better. I can read faster by applying [Selective reading](Selective%20reading.md) and [Speed reading](Speed%20reading.md) as suggested in the book. I especially improved my comprehension of the texts. I now ask better questions and find more easily what I'm searching for in books. As I read faster, using a pen, I also have a better focus, so I forget fewer things.
 
-What really pleased me is that I now have a bigger overview of what reading is. Before this book, I read every book the same way. I now understand that there a wide variety of reading tools that can be used depending on the context, the book type and the outcome we want, as well as the time we have to dedicate. 
+What really pleased me is that I now have a bigger overview of what reading is. Before this book, I read every book the same way. I now understand that there is a wide variety of reading tools that can be used depending on the context, the book type and the outcome we want, as well as the time we have to dedicate. 
 
-Combinate with the [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md) and what I learned reading [How To Take Smart Notes - Sönke Ahrens](How%20To%20Take%20Smart%20Notes%20-%20Sönke%20Ahrens.md), it motivates me to read way more (and write way more too!).
+Combinate with the [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md) and what I learned to read [How To Take Smart Notes - Sönke Ahrens](How%20To%20Take%20Smart%20Notes%20-%20Sönke%20Ahrens.md), it motivates me to read way more (and write way more too!).
 
 ## Related books
-Similarly to [How To Take Smart Notes - Sönke Ahrens](How%20To%20Take%20Smart%20Notes%20-%20Sönke%20Ahrens.md), this book emphasize the need of taking notes and questionning the book ([202107032150 Questioning a book to read more actively](202107032150%20Questioning%20a%20book%20to%20read%20more%20actively.md). But on the other side, the authors argue that lay down our thoughts directly on the book. Sönke Ahrens argue that this is an inefficient strategy, as we need to come back to the book and search for the notes without knowing precisely where they're at. This goes in favor of [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md).
+Similarly to [How To Take Smart Notes - Sönke Ahrens](How%20To%20Take%20Smart%20Notes%20-%20Sönke%20Ahrens.md), this book emphasizes the need of taking notes and questionning the book ([202107032150 Questioning a book to read more actively](202107032150%20Questioning%20a%20book%20to%20read%20more%20actively.md). But on the other side, the authors argue that lay down our thoughts directly on the book. Sönke Ahrens argue that this is an inefficient strategy, as we need to come back to the book and search for the notes without knowing precisely where they're at. This goes in favor of [Zettelkasten](The%20zettelkasten%20method%20and%20how%20to%20take%20smart%20notes.md).
 
-They also highlight the need of reformulating arguments. Compared to Sönke, in their opinion, it's more a matter of verbal act rather than a written act. To achieve reformulation, we can also translate from one language to another. This is great to know for me, as I'm a french guy reading in english. The reformulation could also be done "passively", through [Syntopical reading](Syntopical%20reading.md). Authors would surely have different manners of expressing their ideas, even if they state the same thing in the end. That's what we face here: both are expressing the need of reformulating, but not the same way and not in contradiction but within a certain complementarity. 
+They also highlight the need of reformulating arguments. Compared to Sönke, in their opinion, it's more a matter of verbal act rather than a written act. To achieve reformulation, we can also translate from one language to another. This is great to know for me, as I'm a French guy reading in english. The reformulation could also be done "passively", through [Syntopical reading](Syntopical%20reading.md). Authors would surely have different manners of expressing their ideas, even if they state the same thing in the end. That's what we face here: both are expressing the need of reformulating, but not the same way and not in contradiction, but within a certain complementarity. 
+
+%%end:review%%
 
 ---
 _The following was auto-generated by [Books and Binders](Books%20and%20Binders.md) and relates to the copy I own_
 ## How To Read A Book   The Classic Guide To Intelligent Reading
-This book from Mortimer J. Adler, Charles Van Doren was edited by Touchstone and released 09/2004. I had it for 10.0€ from Amazon. I didn't read the 424 pages yet.
+This book from Mortimer J. Adler, Charles Van Doren was edited by Touchstone and released 09/2004. I had it for 10.0€ from Amazon. I read the 424 pages.
 
 ## More on this book :
 - Buying date : 02/06/2021

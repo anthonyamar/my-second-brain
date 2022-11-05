@@ -1,0 +1,1 @@
+Vegetal are creating **their** organic matter using minerals and carbon dioxyde (CO2), thanks to the light. They are autotrophic.

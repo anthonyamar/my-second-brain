@@ -1,0 +1,5 @@
+The circalittoral is the zone under 20m, where the ocean start to be darker until 200m. This zone is between the [Infralittoral](Infralittoral.md) (above) and the [Bathyal zone](Bathyal.md) (under). There's two sub layers in this zone : the upper one, from 20m to ~100m depending on the turbidity and the lower one from ~100m to 200m.
+
+On the upper one, photophiles species become rarer and lets place to [Sciaphyle](Sciaphyle.md) species that, at their turn, become rarer once we're in the lower sub layer. 
+
+It's a zone where we can do [Scuba diving](Scuba%20diving.md) with licences from level 2 and [FFESSM Level 3](FFESSM%20Level%203.md). It's a zone where it becomes more frequent to do decompression stops as well as diving with [Gas blending](Gas%20blending.md) such as [Nitrox](Nitrox.md) or [Trimix](Trimix.md).

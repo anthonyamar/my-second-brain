@@ -1,0 +1,1 @@
+The infralittoral is the first stage of the sea, from 0 to 20m. Also called the photic zone. This zone is where the majority of marine species are concentrated. Also the easiest and best zone for [Scuba diving](Scuba%20diving.md). This layer come just before the [Mediolittoral](Mediolittoral.md) one. 

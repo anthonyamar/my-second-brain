@@ -1,0 +1,8 @@
+- Let the fauna alone
+- Don't nurture
+- Don't grab anything
+- Avoid any contact with the bottom
+- Be well weighted down
+- Know how to move and master the stabilization. 
+- Avoid air bubble in [Caves](Caves.md) in order to not asphyxiate fixed species on the top.
+- Get accepted by the fauna, don't force behaviors

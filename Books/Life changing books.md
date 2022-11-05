@@ -17,7 +17,7 @@ Here's my personal pick of "Life changing books":
 - [The relative and absolute encyclopedia of knowledge - Bernard Weber](The%20relative%20and%20absolute%20encyclopedia%20of%20knowledge%20-%20Bernard%20Weber.md)
 - [Journey to the center of the earth - Jules Verne](Journey%20to%20the%20center%20of%20the%20earth%20-%20Jules%20Verne.md)
 - [Unlimited Power - Tony Robbins](Unlimited%20Power%20-%20Tony%20Robbins.md)
-- [1984 - Georges Orwell](1984%20-%20Georges%20Orwell.md)
+- [1984 - George Orwell](1984%20-%20George%20Orwell.md)
 - [The 4-hour Workweek - Tim Ferris](The%204-hour%20Workweek%20-%20Tim%20Ferris.md)
 - [Thérèse Raquin - Émile Zola](Thérèse%20Raquin%20-%20Émile%20Zola.md)
 - [Petit Cours D'autodéfense Intellectuelle - Normand Baillargeon](Petit%20Cours%20D'autodéfense%20Intellectuelle%20-%20Normand%20Baillargeon.md)

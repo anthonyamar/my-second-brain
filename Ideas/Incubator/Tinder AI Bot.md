@@ -84,7 +84,7 @@ But in practice, there's a lot more difficulties we need to overcome in order to
 
 ## Reverse Engineering the Tinder API
 
-There's multiple ways to interact with online services. You can use a web-driver like Selenium to scrap the web and make programmatic actions, but you're dependant of the interface changes and some website can make very hard to do, or you can use the service API, but not every service has it's API public. And guess what? Tinder don't have it public, but still, we can guess it using and call it using various technics. 
+There are multiple ways to interact with online services. You can use a web-driver like Selenium to scrap the web and make programmatic actions, but you're dependent of the interface changes and some website can make it very hard to do, or you can use the service API, but not every service has its API public. And guess what? Tinder don't have it public, but still, we can guess it using and call it using various technics. 
 
 Tinder is a mobile and web app. And like any mobile app, its backend is an API that is requested by its frontend. So when you're doing an action on Tinder, wether it's on the mobile or in the web, request are made to the suitable endpoint in order to get perform some action and returning to the frontend a JSON response that will be use to do some other actions.
 
@@ -130,7 +130,7 @@ This apart, we're now ready to perform our own requests!
 
 ### Test the endpoint
 
-To perform HTTP requests, we can use the `cURL` command, but it's a bit harsh. There's a lot of [tools](My%20productivity%20tools.md) that are more convenient with graphical interfaces that can help to better understand and test endpoint faster. I use [Insomnia](https://insomnia.rest/) for this. 
+To perform HTTP requests, we can use the `cURL` command, but it's a bit harsh. There are a lot of [tools](My%20productivity%20tools.md) that are more convenient with graphical interfaces that can help to better understand and test endpoint faster. I use [Insomnia](https://insomnia.rest/) for this. 
 
 Just create a new GET request to the URL `https://api.gotinder.com/v2/recs/core`, fill the header with a pair `X-Auth-Token: your-token-here`, click Send and you should obtain a similar response to the one in the browser. 
 

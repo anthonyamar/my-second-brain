@@ -1,0 +1,1 @@
+Epistemology is a branch of #philosophy that studies the nature and scope of knowledge. It will ask questions about the methods, the validity, and the distinction between belief and truth. 

@@ -3,7 +3,7 @@ Scuba diving is by far my favorite sport. It pushes myself out of my comfort zon
 ## Summary
 
 - Gas
-	- [Breathing gas mixtures : how divers achieve to go deeper.](Gas%20blending.md)
+	- [Breathing gas mixtures: how divers achieve to go deeper.](Gas%20blending.md)
 	- [Nitrox](Nitrox.md)
 	- [Trimix](Trimix.md)
 	- [Hyperoxic trimix](Hyperoxic%20trimix.md)
@@ -14,4 +14,4 @@ Scuba diving is by far my favorite sport. It pushes myself out of my comfort zon
 	- [Decompression sickness](Decompression%20sickness.md)
 	- [Hyperoxia](Hyperoxia.md)
 	- [Nitrogen narcosis](Nitrogen%20narcosis.md)
-- [Making underwater videos](Making%20underwater%20videos.md)
+- [Underwater videos](Underwater%20videos.md)

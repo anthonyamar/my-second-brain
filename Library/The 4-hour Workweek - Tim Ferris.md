@@ -8,6 +8,8 @@ tags:
 - "#books/french"
 ---
 
+%%start:review%%
+## Review
 Like a lot of other people, The 4-Hour Workweek from Time Ferris had a great and huge impact on my life. I mean, who hadn't ever dreamed of working significantly less while still having the same lifestyle? Or even better, having a better life quality than you had while working 35 hours per week? Well, the book start with this strong belief. 
 
 What I really appreciate in this book is that it opened me on a totaly new genre of #personal-development : the professionnal efficiency and the #productivity improvement. 
@@ -28,3 +30,4 @@ Some concepts, totaly new for me at that time, are now part of what I truly valu
 Even if it was already ~10 years old when I read it and that some concept were a bit outdated (I thinking about #dropshipping i.e.), it is still an awesome book that provide real game chaging ideas for those who'd never been exposed to the kind of thoughts. 
 
 ![400](four_hours_workweek_tim_ferris.jpg)
+%%end:review%%

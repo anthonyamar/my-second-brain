@@ -1,0 +1,3 @@
+Words have the power to change the way the world is: by declaring the war to another country, a president can literally change the state of the peace in the world. By proclaiming your significant other, and you tied till you die, the mayor create a new reality and change the singular you into a plural you. By giving your baby a name, you define his/her identity for the rest of his/her existence.
+
+They change the state of the world by verbalizing it.

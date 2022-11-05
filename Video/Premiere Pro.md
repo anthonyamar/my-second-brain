@@ -1,6 +1,6 @@
 I'm learning Adobe Premiere Pro since I get a new #GoPro and started to create an online video formation about music business. 
 
-The usage I have is to make vlogs, lessons, #guitar, and mostly for [scuba diving](Scuba%20diving.md) and [underwater videos](Making%20underwater%20videos.md). 
+The usage I have is to make vlogs, lessons, #guitar, and mostly for [scuba diving](Scuba%20diving.md) and [underwater videos](Underwater%20videos.md). 
 
 Here's link curation and some notes. 
 
