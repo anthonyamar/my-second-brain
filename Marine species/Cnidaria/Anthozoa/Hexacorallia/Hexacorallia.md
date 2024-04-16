@@ -1,0 +1,1 @@
+Hexacorallia is a class of [Cnidaria](Cnidaria.md), [Anthozoa](Anthozoa.md). Formed with polyps and generally with a 6-fold symmetry. It includes important coral reef builders, such as the stony corals (scleractinia), [Heteractis magnifica - Magnificent sea anemone](Heteractis%20magnifica%20-%20Magnificent%20sea%20anemone.md) (actinaria) and zoanthids. 

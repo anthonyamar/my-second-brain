@@ -19,6 +19,8 @@ I'm happy with the result. Now, each time I buy a new book, I instantly add it t
 The last features :
 - Embeddable public page for #Obsidian.
 - Export entries to Obisidian flavoured markdown notes with auto tag. 
+- Auto-update every note in a folder by extracting content from the markdown file using a DSL and regexp. It extracts what's behing hidden tags to keep the review and update the data without making it by hand.
+- Use the DSL to match the note and the id in the Books and Binders database.
 
 The result of theses two features can be seens on [~ My library - MoC](~%20My%20library%20-%20MoC.md)  (take some seconds to load, free #Heroku dynos atm 😅) and all the files in the folder "Library". 
 

@@ -1,0 +1,1 @@
+"Trottoir" in French. Mostly colonized by lichen. 

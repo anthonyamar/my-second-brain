@@ -1,8 +1,11 @@
+---
+tags: ["changelog"]
+---
 # New
 - Start writing on [Influentialism](Influentialism.md) in philosophy
 - Acquired 4 new books
 	- [Essais Esthétiques - David Hume](Essais%20Esthétiques%20-%20David%20Hume.md)
-	- [Enquête Sur l'Entendement Humain - David Hume](Enquête%20Sur%20l'Entendement%20Humain%20-%20David%20Hume.md)
+	- [Essays On The Human Understanding - David Hume](Essays%20On%20The%20Human%20Understanding%20-%20David%20Hume.md)
 	- [Studios De Légende Secrets Et Histoires De Nos Abbey Road Français - Manuel Jacquinet](Studios%20De%20Légende%20Secrets%20Et%20Histoires%20De%20Nos%20Abbey%20Road%20Français%20-%20Manuel%20Jacquinet.md)
 	- [Mixtape 2.0 - 30 Ans De Culture Hip-Hop - Cut Killer, Julien Civange](Mixtape%202.0%20-%2030%20Ans%20De%20Culture%20Hip-Hop%20-%20Cut%20Killer,%20Julien%20Civange.md)
 

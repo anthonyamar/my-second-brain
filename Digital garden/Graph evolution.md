@@ -45,3 +45,13 @@
 ![](Pasted%20image%2020220220232444.png)
 
 ![](Pasted%20image%2020221009135938.png)
+
+![](Pasted%20image%2020221213234354.png)
+
+![](Pasted%20image%2020221218235623.png)
+
+![](Pasted%20image%2020230718230959.png)
+
+![](Pasted%20image%2020231025002730.png)
+
+![](Pasted%20image%2020231031002924.png)

@@ -10,7 +10,15 @@ tags:
 %%id:292%%
 %%start:review%%
 ## Review
-I didn't reviewed this book yet. 
+Not the best book I've ever read. The title traduction is a bit fallacious, it is translated as "Are we what we read?" and we could esperate a kind of epistemologic book but it is not. It's just a group of 4 little writings from George Orwell on how and why he loosed his faith into books :
+- Bookshop Memories
+- Confessions of a Book Reviewer
+- Good Books Bad Books
+- Books vs Cigarettes
+
+A distracting book in sum, that allowed me to ask me the question of passion based works: Does becoming a pro in a domain to which the passion is the catalys (such as arts, books, sports) pushes us necessarily to its weariness? The privation of freedom of *not* reading gives to a book a constraint nature. 
+
+![image](https://res.cloudinary.com/dt3d6t2ay/image/upload/v1667690688/obsidian/0ABCD4AB-7E09-4980-86D8-8885EEA06923_g2cscd.jpg)
 
 %%end:review%%
 

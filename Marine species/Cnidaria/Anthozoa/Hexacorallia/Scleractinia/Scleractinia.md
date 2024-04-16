@@ -1,0 +1,1 @@
+Also called stony or hard corals, these are animals from the [Cnidaria](Cnidaria.md) phylum. They build themselves a hard skeleton through the secretion of calcium carbonate to protect their soft body. They are the reef-building corals and exist in various shapes

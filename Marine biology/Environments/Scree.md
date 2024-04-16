@@ -1,1 +1,1 @@
-Translation : Eboulis
+"Eboulis" in French

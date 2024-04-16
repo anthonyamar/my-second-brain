@@ -1,0 +1,9 @@
+In order to improve my skills in [Underwater photo](Underwater%20photo.md), I think that it's important to closely watch and analyse other photographer's pictures. But who? Even though pictures of the masters in this field are very esthetic and pleasing to watch, I don't think they're the one to watch at first for our analysis and improvement. They can access to some destinations, dive spots and gear that we can't when we start learning UW photography, so it can be kind of biased. 
+
+While thinking of that, I figured out that I just don't know a lot of UW photographers, except the masters we all know (Laurent Ballesta, Alex Mustard...). As I don't have Instagram (cc [Social media detox](Social%20media%20detox.md)), I don't discover new people easily. So, I have to fix this! Let's maintain a list of UW photographer with their website
+
+This, obviously, isn't a ranking between photographers. I got all of those people by carefuly watching for names in Alex Mustard's book "[Guide de Photographie Sous-Marine](Guide%20de%20Photographie%20Sous-Marine%20-%20Alex%20Mustard.md)", so the order is just based on where I found the name in the book. Once I had the names, I search for any website, instagram and informations I could get. 
+
+I put strength based on what I see as something that is really consistant accross the photographer's work, and/or based on for what technic Alex Mustard was quoting this artist. If there's no strength, it's just because I can't just tell one more than others, but it absolutely don't mean there's none. 
+
+<iframe src="https://rows.com/embed/1HU4RsC4gCQvdKMzEmWuqb9fW4BMty8sS7p9FYcS1riP/a446f1c5-7993-4072-8383-67acc32d2743?_height=850" class="rows-embed" frameborder="0" width="100%" height="850" style="max-width: 100%; border: 1px solid #EAEAEA; border-radius: 20px;"></iframe>

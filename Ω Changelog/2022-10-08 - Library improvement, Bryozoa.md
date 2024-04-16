@@ -1,3 +1,6 @@
+---
+tags: ["changelog"]
+---
 ## New
 ## Improved
 - I'm largely refactoring my [Books and Binders](Books%20and%20Binders.md) software to better handle my needs on Obsidian, so I update all the notes in the `Library/` folder (+270 😅) with hidden comments that act as a DSL (Domain Specific Language). So there's no big changes, except maybe some fixed typos, but this prepares something very big!

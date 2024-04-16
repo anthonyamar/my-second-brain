@@ -1,3 +1,6 @@
+---
+tags: ["changelog"]
+---
 # New
 
 # Improved

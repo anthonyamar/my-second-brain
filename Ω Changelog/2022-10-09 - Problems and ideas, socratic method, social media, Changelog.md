@@ -1,3 +1,6 @@
+---
+tags: ["changelog"]
+---
 ## New
 - [Seek for problems rather than ideas](Seek%20for%20problems%20rather%20than%20ideas.md)
 - [Socratic method](Socratic%20method.md)

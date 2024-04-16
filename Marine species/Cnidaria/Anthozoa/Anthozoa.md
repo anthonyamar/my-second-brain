@@ -1,0 +1,1 @@
+Anthozoa is a sub-phylum of marine invertebrates, under the [Cnidaria](Cnidaria.md) that includes [Hexacorallia](Hexacorallia.md), [Octocorallia](Octocorallia.md) and [Ceriantharia](Ceriantharia.md). 

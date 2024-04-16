@@ -1,0 +1,1 @@
+Animalians are creating their organic matter to the **detriment** of [Vegetalia](Vegetalia.md) or Animalians. They are heterotrophic.

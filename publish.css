@@ -1,0 +1,173 @@
+.published-container {
+  /* ... CSS variables */
+  --page-width: 100%;
+  --footer-display: none;
+  --logo-width: 5rem;
+}
+
+.site-body-left-column-site-name {
+  text-align: center;
+}
+
+.site-body-left-column-site-logo {
+  margin: 0 auto 1rem auto;
+}
+
+.theme-dark {
+  --text-accent: #52BAE0;
+  --text-accent-hover: #74C8E7;
+  --text-title: #FFF;
+  --text-normal: #D0D0D0;
+  --text-muted: #BBBDBF;
+  --text-code: #FA8682;
+  --interactive-accent: #52BAE0;
+  --interactive-complementary: #E09D00;
+  --interactive-tag: #A66064;
+  --interactive-accent-rgb: 116, 200, 231;
+  --interactive-accent-hover: #74C8E7;
+  --interactive-success: #69F593;
+  --fluro-yellow-rgb: 255, 255, 0;
+  --fluro-pink-rgb: 255, 0, 255;
+  --fluro-red-rgb: 255, 0, 0;
+  --fluro-blue-rgb: 80, 190, 255;
+  --fluro-green-rgb: 0, 255, 0;
+  --text-highlight-rgb: var(--fluro-blue-rgb);
+  --text-highlight-bg: none; /* To avoid having too times the mark */
+  --node-accent: #52BAE0;
+  --node-asset: #C28D13;
+  --node-tag: #A66064;
+  --list-marker-color: #52BAE0;
+}
+
+@media screen and (min-width: 1280px) {
+  /* ... rules and variables for screens larger than tablet */
+  .published-container {
+    --page-side-padding: 10rem;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .published-container {
+    --sidebar-left-width: 230px;
+    --sidebar-right-width: 250px;
+    --graph-height: 200px;
+  }
+}
+@media screen and (max-width: 750px) {
+  /* ... rules and variables for mobile devices and smaller */
+}
+
+/* ... Generic code */
+h1, h2, h3, h4, h5 {
+  font-weight: 500;
+  font-family: sans-serif;
+  color: var(--text-title);
+}
+
+code {
+  color: var(--text-code) !important;
+  background-color: black;
+}
+
+/* IMAGES */
+
+.internal-embed img { 
+  display: flex;
+  justify-content: center;
+  margin: 2em auto;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.dropcap {
+  width: 30% !important;
+  float: left !important;
+}
+
+/* LINKS */
+
+.internal-link, .tag {
+  box-shadow: inset 0 0px 0 var(--interactive-accent), inset 0 -4px 0px var(--interactive-accent);
+}
+
+.internal-link:hover {
+  color: var(--interactive-accent) !important;
+}
+
+.external-link {
+  box-shadow: inset 0 0px 0 var(--interactive-complementary), inset 0 -4px 0 var(--interactive-complementary);
+  background-position-y: 2px;
+  color: var(--text-normal);
+}
+
+.external-link:hover {
+  color: var(--interactive-complementary) !important;
+}
+
+.tag {
+  box-shadow: inset 0 0px 0 var(--interactive-tag), inset 0 -4px 0px var(--interactive-tag);
+  padding: 0 !important;
+  font-size: inherit !important;
+  border-radius: 0 !important;
+  background-color: transparent !important;
+  border: none !important;
+  color: var(--text-normal) !important;
+}
+
+.tag:hover {
+  color: var(--interactive-tag) !important;
+  border: none !important;
+  background-color: transparent !important;
+}
+
+a, .internal-link, .cm-hmd-internal-link, .cm-link, .tag {
+  text-decoration: none !important;
+  color: var(--text-normal);
+}
+
+a:hover {
+  box-shadow: none;
+  text-shadow: none;
+}
+
+.internal-link, .external-link, .tag {
+  text-shadow: -1px -1px 2px var(--background-primary), -1px 1px 2px var(--background-primary), 1px -1px 2px var(--background-primary), 1px 1px 2px var(--background-primary);
+  /*	-webkit-text-fill-color: var(--text-normal);*/
+  text-decoration: none;
+  transition: all 350ms ease;
+}
+
+span.obsidian-search-match-highlight {
+  background-color: var(--interactive-accent-hover) !important;
+  color: var(--text-normal) !important;
+}
+
+/* HIGHLIGHTS */
+
+mark.yellow{ --text-highlight-rgb: var(--fluro-yellow-rgb); }
+mark.pink{ --text-highlight-rgb: var(--fluro-pink-rgb); }
+mark.red{ --text-highlight-rgb: var(--fluro-red-rgb); }
+mark.blue{ --text-highlight-rgb: var(--fluro-blue-rgb); }
+mark.green{ --text-highlight-rgb: var(--fluro-green-rgb); }
+
+mark {
+  margin: 0 -0.4em;
+  padding: 0.1em 0.4em;
+  border-radius: 0.8em 0.3em;
+  background-color: none !important;
+  background: transparent;
+  background-image: linear-gradient(105deg,
+    transparent 0,
+    transparent 0.3em,
+    rgba(var(--text-highlight-rgb), 0.7) 0.5em,
+    rgba(var(--text-highlight-rgb), 0.4) 1.6em,
+    rgba(var(--text-highlight-rgb), 0.4) calc(100% - 1.4em),
+    rgba(var(--text-highlight-rgb), 0.7) calc(100% - 0.5em),
+    transparent calc(100% - 0.3em),
+    transparent 100%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  text-shadow: 0 0 0.75em var(--background-primary-alt);
+}
